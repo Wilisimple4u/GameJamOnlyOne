@@ -34,5 +34,5 @@ animation = &"TempIdle"
 [node name="Camera2D" type="Camera2D" parent="."]
 
 [node name="PlatformSpawner" type="StaticBody2D" parent="."]
-position = Vector2(0, 16)
+position = Vector2(0, 20)
 script = ExtResource("3_8tcb5")

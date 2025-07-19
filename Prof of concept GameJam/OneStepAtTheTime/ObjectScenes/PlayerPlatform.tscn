@@ -6,6 +6,7 @@
 size = Vector2(34, 7)
 
 [node name="Node2D" type="RigidBody2D"]
+disable_mode = 1
 gravity_scale = 0.0
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
