@@ -1,9 +1,10 @@
-[gd_scene load_steps=8 format=4 uid="uid://cl826fie1d4o2"]
+[gd_scene load_steps=9 format=4 uid="uid://cl826fie1d4o2"]
 
 [ext_resource type="Texture2D" uid="uid://crs1p14el278q" path="res://OneStepAtTheTime/SpritesAndArts/TileMap/TempGroundTile.png" id="1_wa6m3"]
 [ext_resource type="Texture2D" uid="uid://f7xyha2ihlpa" path="res://OneStepAtTheTime/SpritesAndArts/TileMap/TempTileset.png" id="2_r7qj1"]
 [ext_resource type="PackedScene" uid="uid://grudrdnaxpm6" path="res://OneStepAtTheTime/ObjectScenes/PlayerChar.tscn" id="3_4ghnw"]
 [ext_resource type="PackedScene" uid="uid://bw7r2frcu4hno" path="res://OneStepAtTheTime/ObjectScenes/PlatformObjectTemp.tscn" id="4_mblv6"]
+[ext_resource type="PackedScene" uid="uid://b3nagmdi6as5m" path="res://rockspawner.tscn" id="5_i2dvm"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_3xhdl"]
 texture = ExtResource("1_wa6m3")
@@ -80,3 +81,6 @@ position = Vector2(0, 100)
 
 [node name="TempPlayerChar" parent="." instance=ExtResource("3_4ghnw")]
 position = Vector2(0, -20)
+
+[node name="Rockspawner" parent="." instance=ExtResource("5_i2dvm")]
+position = Vector2(-15, -336)

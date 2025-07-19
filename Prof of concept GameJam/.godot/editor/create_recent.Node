@@ -1,3 +1,7 @@
+Sprite2D
+CollisionShape2D
+Area2D
+RigidBody2D
 Camera2D
 TileMapLayer
 Button
@@ -6,9 +10,5 @@ MarginContainer
 VBoxContainer
 TextureRect
 CenterContainer
-CollisionShape2D
 TileMap
-Sprite2D
 StaticBody2D
-AnimatedSprite2D
-CharacterBody2D
