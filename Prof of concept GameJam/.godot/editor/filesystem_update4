@@ -1,9 +1,13 @@
-<<<<<<< HEAD
-res://TempLevel.tscn
+res://Main menu.tscn
+res://71 Godot project/StartScreen/TittleScreen.tscn
+res://node_2d.tscn
 res://PlayerCharScene.tscn
 res://PlatformObjectTemp.tscn
-res://Main menu.tscn
-=======
-res://71 Godot project/plattformer/StartScreen/TittleScreen.tscn
-res://PlatformObjectTemp.tscn
->>>>>>> 8ce5a2850ac539d0fecfe85bd9c0e17c13640f25
+res://71 Godot project/StartScreen/TittleScreen.gd
+res://Scripts/TittleScreen.gd
+res://Scripts/TitleScreen.gd
+res://TempLevel.tscn
+res://71 Godot project/GameScenes/TempLevel.tscn
+res://71 Godot project/ObjectScenes/PlatformObjectTemp.tscn
+res://71 Godot project/ObjectScenes/PlayerChar.tscn
+res://71 Godot project/Scripts/TitleScreen.gd

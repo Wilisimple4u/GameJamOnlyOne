@@ -1,4 +1,6 @@
-[gd_scene format=3 uid="uid://dbms65oofdnu1"]
+[gd_scene load_steps=2 format=3 uid="uid://dbms65oofdnu1"]
+
+[ext_resource type="Script" uid="uid://cgc21y2cv5v5h" path="res://71 Godot project/Scripts/TitleScreen.gd" id="1_7jlr6"]
 
 [node name="Main memu" type="Control"]
 layout_mode = 3
@@ -7,6 +9,7 @@ anchor_right = 1.0
 anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
+script = ExtResource("1_7jlr6")
 
 [node name="VBoxContainer" type="VBoxContainer" parent="."]
 layout_mode = 1
@@ -49,7 +52,7 @@ layout_mode = 2
 theme_override_constants/margin_top = 3
 theme_override_constants/margin_bottom = 3
 
-[node name="Button" type="Button" parent="CenterContainer/VBoxContainer/MarginContainer2"]
+[node name="NewGameButton" type="Button" parent="CenterContainer/VBoxContainer/MarginContainer2"]
 layout_mode = 2
 text = "New Game"
 
@@ -58,7 +61,7 @@ layout_mode = 2
 theme_override_constants/margin_top = 3
 theme_override_constants/margin_bottom = 3
 
-[node name="Button" type="Button" parent="CenterContainer/VBoxContainer/MarginContainer3"]
+[node name="ContinueGameButton" type="Button" parent="CenterContainer/VBoxContainer/MarginContainer3"]
 layout_mode = 2
 text = "Continue"
 
@@ -67,7 +70,7 @@ layout_mode = 2
 theme_override_constants/margin_top = 3
 theme_override_constants/margin_bottom = 3
 
-[node name="Button" type="Button" parent="CenterContainer/VBoxContainer/MarginContainer4"]
+[node name="SettingsStartButton" type="Button" parent="CenterContainer/VBoxContainer/MarginContainer4"]
 layout_mode = 2
 text = "Settings"
 
@@ -76,6 +79,9 @@ layout_mode = 2
 theme_override_constants/margin_top = 0
 theme_override_constants/margin_bottom = 0
 
-[node name="Button" type="Button" parent="CenterContainer/VBoxContainer/MarginContainer5"]
+[node name="QuitStartButton" type="Button" parent="CenterContainer/VBoxContainer/MarginContainer5"]
 layout_mode = 2
 text = "Quit"
+
+[connection signal="pressed" from="CenterContainer/VBoxContainer/MarginContainer2/NewGameButton" to="." method="_on_new_game_button_pressed"]
+[connection signal="pressed" from="CenterContainer/VBoxContainer/MarginContainer5/QuitStartButton" to="." method="_on_quit_start_button_pressed"]

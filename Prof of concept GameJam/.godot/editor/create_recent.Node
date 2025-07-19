@@ -1,14 +1,14 @@
+Camera2D
+TileMapLayer
+Button
 Label
 MarginContainer
 VBoxContainer
 TextureRect
-Button
 CenterContainer
 CollisionShape2D
-Camera2D
 TileMap
 Sprite2D
 StaticBody2D
 AnimatedSprite2D
 CharacterBody2D
-RemoteTransform2D
