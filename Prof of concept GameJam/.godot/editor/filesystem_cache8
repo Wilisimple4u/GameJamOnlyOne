@@ -1,0 +1,571 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1731605309
+BadTouch.gd::GDScript::-1::1679657434::0::1::::<>Node<>::
+icon.svg::CompressedTexture2D::4122947302607126900::1679659578::1731605321::1::::<><>::
+My first platform.tscn::PackedScene::7949708617195670443::1680258212::0::1::::<><>::uid://bbv30gqfo783v::::res://plattformer/player animation/Peppino door/Peppino enter/walkfront_00.png<>res://player character.gd<>uid://dcrvqfovsfi65::::res://plattformer/player animation/Peppino door/Peppino enter/walkfront_01.png<>uid://ctah2mwq1ffe3::::res://plattformer/player animation/Peppino door/Peppino enter/walkfront_02.png<>uid://clf104janakfc::::res://plattformer/player animation/Peppino door/Peppino enter/walkfront_03.png<>uid://bwm5wi4otuwk6::::res://plattformer/player animation/Peppino door/Peppino enter/walkfront_04.png<>uid://cnn7i5ksdyun::::res://plattformer/player animation/Peppino door/Peppino enter/walkfront_05.png<>uid://cujaka25vuqou::::res://plattformer/player animation/Peppino door/Peppino enter/walkfront_06.png<>uid://d0ccugx40eil6::::res://plattformer/player animation/Peppino door/Peppino enter/walkfront_07.png<>uid://bptfhy1o1judy::::res://plattformer/player animation/Peppino door/Peppino enter/walkfront_08.png<>uid://dpefshj32x7ma::::res://plattformer/player animation/Peppino door/Peppino enter/walkfront_09.png<>uid://d4h6cfkql138l::::res://plattformer/player animation/Peppino door/Peppino enter/walkfront_10.png<>uid://cebrstjfs5awj::::res://plattformer/player animation/Peppino door/Peppino enter/walkfront_11.png<>uid://cd31bc82emgg0::::res://plattformer/player animation/Peppino door/Peppino enter/walkfront_12.png<>uid://3xbrrb5jvvbd::::res://plattformer/player animation/Peppino door/Peppino enter/walkfront_13.png<>uid://dgs25bkjxavqf::::res://plattformer/player animation/Peppino door/Peppino enter/walkfront_14.png<>uid://cm58ij8ia6bss::::res://plattformer/player animation/Peppino door/Peppino enter/walkfront_15.png<>uid://dglv0o3uwi8ya::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_00.png<>uid://cp5mr07nb8725::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_01.png<>uid://kp0lmjhvxiyi::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_02.png<>uid://brsj6jtlsk484::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_03.png<>uid://ccj4wvo4x5r8h::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_04.png<>uid://8yoc357fwwff::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_05-17.png<>uid://deqpdxtciq0ad::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_18.png<>uid://ctnl7gqh3h4t2::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_19.png<>uid://bvfacrag4r020::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_20.png<>uid://b0urum865kf6p::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_21.png<>uid://cqxgergmm26vv::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_22.png<>uid://drwoe2o6jnoo1::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_23_26_29.png<>uid://b4u4bjvuk2gmt::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_24_27_30.png<>uid://cxwbyi0x1n4n8::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_25_28_31.png<>uid://708ia06jy0m0::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_32.png<>uid://bq0ssa1w651cu::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_33.png<>uid://c21kvlfl8k4kc::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_34.png<>uid://cr1y25uss4yb::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_35.png<>uid://dnbr3h33p7ktf::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_36-44.png<>uid://cj2jlxi7vllfe::::res://plattformer/player animation/Peppino idle/body idle/idlefrown_00.png<>uid://81ux8a4vwrod::::res://plattformer/player animation/Peppino idle/body idle/idlefrown_01.png<>uid://nhxqgea3ngx4::::res://plattformer/player animation/Peppino idle/body idle/idlefrown_02.png<>uid://bjf0hax7o6l8h::::res://plattformer/player animation/Peppino idle/body idle/idlefrown_03-29.png<>uid://7fshqawrq81t::::res://plattformer/player animation/Peppino idle/body idle/idlefrown_30.png<>uid://cx3eatbl44a8p::::res://plattformer/player animation/Peppino idle/body idle/idlefrown_31.png<>uid://dkpmmfh0lexy::::res://plattformer/player animation/Peppino idle/body idle/idlefrown_32.png<>uid://dxhaldkppptl0::::res://plattformer/player animation/Peppino idle/body idle/idle_00.png<>uid://yr1030pvi7mx::::res://plattformer/player animation/Peppino idle/body idle/idle_01.png<>uid://5uomvty0i484::::res://plattformer/player animation/Peppino idle/body idle/idle_02.png<>uid://yl537gdg2idp::::res://plattformer/player animation/Peppino idle/body idle/idle_03.png<>uid://bjpj6rkos1pjr::::res://plattformer/player animation/Peppino idle/body idle/idle_04.png<>uid://cf7mabu3cowp6::::res://plattformer/player animation/Peppino idle/body idle/idle_05-08.png<>uid://bi8ubq3fl1uiu::::res://plattformer/player animation/Peppino idle/body idle/idle_09.png<>uid://cap1xnt1dd8q6::::res://plattformer/player animation/Peppino idle/body idle/idle_10.png<>uid://c4403m4madp3y::::res://plattformer/player animation/Peppino idle/body idle/idle_11.png<>uid://00knoojpkip5::::res://plattformer/player animation/Peppino idle/body idle/idle_12.png<>uid://cph6cqbmd48uw::::res://plattformer/player animation/Peppino idle/body idle/idle_13.png<>uid://crlnt24vdv6hx::::res://plattformer/player animation/Peppino idle/body idle/idle_14.png<>uid://dtvmyacj8st1v::::res://plattformer/player animation/Peppino idle/body idle/idle_15.png<>uid://b2ekwc01v8kbu::::res://plattformer/player animation/Peppino idle/body idle/idle_16-17.png<>uid://dqmes2a47ocim::::res://plattformer/player animation/Peppino idle/body idle/idle_18.png<>uid://bih7tikx4jfw0::::res://plattformer/player animation/Peppino idle/body idle/idle_19.png<>uid://c1vdsjmw7ched::::res://plattformer/player animation/Peppino idle/body idle/idle_20.png<>uid://d06gpc311nemq::::res://plattformer/player animation/Peppino idle/body idle/idledance_00.png<>uid://cxdj82lpnssep::::res://plattformer/player animation/Peppino idle/body idle/idledance_01.png<>uid://ivewshh3nv5j::::res://plattformer/player animation/Peppino idle/body idle/idledance_02_10_18_26.png<>uid://c31w1jvq8cm5a::::res://plattformer/player animation/Peppino idle/body idle/idledance_03_11_19_27.png<>uid://c70cp3rnt2rgv::::res://plattformer/player animation/Peppino idle/body idle/idledance_04_12_20_28.png<>uid://dh71dvqhw7ovh::::res://plattformer/player animation/Peppino idle/body idle/idledance_05_13_21_29.png<>uid://yaqt7xs51g6c::::res://plattformer/player animation/Peppino idle/body idle/idledance_06_14_22_30.png<>uid://ofmnyb66e18s::::res://plattformer/player animation/Peppino idle/body idle/idledance_07_15_23_31.png<>uid://2usy0b2qsuff::::res://plattformer/player animation/Peppino idle/body idle/idledance_08_16_24_32.png<>uid://ciokndbqt88e4::::res://plattformer/player animation/Peppino idle/body idle/idledance_09_17_25_33.png<>uid://br6qdoj3avpea::::res://plattformer/player animation/Peppino idle/body idle/idledance_34.png<>uid://dbck56yr51u80::::res://plattformer/player animation/Peppino idle/body idle/idledance_35.png<>uid://da3u1o4y352p8::::res://plattformer/player animation/Peppino idle/body idle/idledance_36.png<>uid://dbxbju451xfhb::::res://plattformer/player animation/Peppino jump/jump_00.png<>uid://7t6dajuxfiqd::::res://plattformer/player animation/Peppino jump/jump_01.png<>uid://bap7hijh3jwjj::::res://plattformer/player animation/Peppino jump/jump_02.png<>uid://hixoyidtkkml::::res://plattformer/player animation/Peppino jump/jump_03.png<>uid://bxc5y1pdml2yk::::res://plattformer/player animation/Peppino jump/jump_04.png<>uid://ce5grijjxa6ym::::res://plattformer/player animation/Peppino jump/jump_05.png<>uid://jwerq77qc6yt::::res://plattformer/player animation/Peppino jump/jump_06.png<>uid://cc5kkr8mgdv6o::::res://plattformer/player animation/Peppino jump/jump_07.png<>uid://dtiu4cdqgnhig::::res://plattformer/player animation/Peppino jump/jump_08.png<>uid://btn4yjqa3fdhu::::res://plattformer/player animation/Peppino jump/jump_09.png<>uid://cxrh1y3fqd72j::::res://plattformer/player animation/Peppino jump/jump_10.png<>uid://co4x55nntq7o7::::res://plattformer/player animation/Peppino jump/jump_11.png<>uid://dl4ja8ny27j0c::::res://plattformer/player animation/Peppino walk/move_00.png<>uid://cqpphaul8acuc::::res://plattformer/player animation/Peppino walk/move_01.png<>uid://pjh1xkootrf2::::res://plattformer/player animation/Peppino walk/move_02.png<>uid://c5m8a6h5teggs::::res://plattformer/player animation/Peppino walk/move_03.png<>uid://d4dygpcnbo1ue::::res://plattformer/player animation/Peppino walk/move_04.png<>uid://yqydm5mknwwh::::res://plattformer/player animation/Peppino walk/move_05.png<>uid://1cp02522kl3i::::res://plattformer/player animation/Peppino walk/move_06.png<>uid://c4ooschvjecfp::::res://plattformer/player animation/Peppino walk/move_07.png<>uid://dimw64j1vb0np::::res://plattformer/player animation/Peppino walk/move_08.png<>uid://g3r8dvwfmda7::::res://plattformer/player animation/Peppino walk/move_09.png<>uid://dhbiff0k66r0s::::res://plattformer/player animation/Peppino walk/move_10.png<>uid://glrfeo0mo32q::::res://plattformer/player animation/Peppino walk/move_11.png
+new_script.gd::GDScript::-1::1679657380::0::1::::<>CharacterBody2D<>::
+node_2d.tscn::PackedScene::3567520825570771331::1679657996::0::1::::<><>::uid://dvjh86tvdxd41::::res://my godot storage assets/start-assets/start-assets/player.png<>res://pickup.gd<>res://new_script.gd<>uid://m7np20e27ajl::::res://my godot storage assets/start-assets/start-assets/bumper.png<>uid://djk8hgilr687a::::res://my godot storage assets/start-assets/start-assets/coin.png<>uid://d3a3sbbwa67ws::::res://my godot storage assets/start-assets/start-assets/enemy.png
+pickup.gd::GDScript::-1::1679656968::0::1::::<>Node<>::
+player character.gd::GDScript::-1::1684848608::0::1::::<>CharacterBody2D<>::
+::res://71 Godot project/::1731605270
+::res://71 Godot project/plattformer/::1731605270
+level.tscn::PackedScene::2782170535212830258::1680261954::0::1::::<><>::uid://bqmfodm86t5lj::::res://plattformer/tilemap/Nature Platformer/Nature Platformer/tileset-16x16.png<>uid://cxtkjpi5n06es::::res://plattformer/My first platform.tscn
+My first platform.tscn::PackedScene::6427031992051032558::1680261918::0::1::::<><>::res://player character.gd<>uid://bbv30gqfo783v::::res://plattformer/player animation/Peppino door/Peppino enter/walkfront_00.png<>uid://dcrvqfovsfi65::::res://plattformer/player animation/Peppino door/Peppino enter/walkfront_01.png<>uid://ctah2mwq1ffe3::::res://plattformer/player animation/Peppino door/Peppino enter/walkfront_02.png<>uid://clf104janakfc::::res://plattformer/player animation/Peppino door/Peppino enter/walkfront_03.png<>uid://bwm5wi4otuwk6::::res://plattformer/player animation/Peppino door/Peppino enter/walkfront_04.png<>uid://cnn7i5ksdyun::::res://plattformer/player animation/Peppino door/Peppino enter/walkfront_05.png<>uid://cujaka25vuqou::::res://plattformer/player animation/Peppino door/Peppino enter/walkfront_06.png<>uid://d0ccugx40eil6::::res://plattformer/player animation/Peppino door/Peppino enter/walkfront_07.png<>uid://bptfhy1o1judy::::res://plattformer/player animation/Peppino door/Peppino enter/walkfront_08.png<>uid://dpefshj32x7ma::::res://plattformer/player animation/Peppino door/Peppino enter/walkfront_09.png<>uid://d4h6cfkql138l::::res://plattformer/player animation/Peppino door/Peppino enter/walkfront_10.png<>uid://cebrstjfs5awj::::res://plattformer/player animation/Peppino door/Peppino enter/walkfront_11.png<>uid://cd31bc82emgg0::::res://plattformer/player animation/Peppino door/Peppino enter/walkfront_12.png<>uid://3xbrrb5jvvbd::::res://plattformer/player animation/Peppino door/Peppino enter/walkfront_13.png<>uid://dgs25bkjxavqf::::res://plattformer/player animation/Peppino door/Peppino enter/walkfront_14.png<>uid://cm58ij8ia6bss::::res://plattformer/player animation/Peppino door/Peppino enter/walkfront_15.png<>uid://dglv0o3uwi8ya::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_00.png<>uid://cp5mr07nb8725::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_01.png<>uid://kp0lmjhvxiyi::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_02.png<>uid://brsj6jtlsk484::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_03.png<>uid://ccj4wvo4x5r8h::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_04.png<>uid://8yoc357fwwff::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_05-17.png<>uid://deqpdxtciq0ad::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_18.png<>uid://ctnl7gqh3h4t2::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_19.png<>uid://bvfacrag4r020::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_20.png<>uid://b0urum865kf6p::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_21.png<>uid://cqxgergmm26vv::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_22.png<>uid://drwoe2o6jnoo1::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_23_26_29.png<>uid://b4u4bjvuk2gmt::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_24_27_30.png<>uid://cxwbyi0x1n4n8::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_25_28_31.png<>uid://708ia06jy0m0::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_32.png<>uid://bq0ssa1w651cu::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_33.png<>uid://c21kvlfl8k4kc::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_34.png<>uid://cr1y25uss4yb::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_35.png<>uid://dnbr3h33p7ktf::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_36-44.png<>uid://cj2jlxi7vllfe::::res://plattformer/player animation/Peppino idle/body idle/idlefrown_00.png<>uid://81ux8a4vwrod::::res://plattformer/player animation/Peppino idle/body idle/idlefrown_01.png<>uid://nhxqgea3ngx4::::res://plattformer/player animation/Peppino idle/body idle/idlefrown_02.png<>uid://bjf0hax7o6l8h::::res://plattformer/player animation/Peppino idle/body idle/idlefrown_03-29.png<>uid://7fshqawrq81t::::res://plattformer/player animation/Peppino idle/body idle/idlefrown_30.png<>uid://cx3eatbl44a8p::::res://plattformer/player animation/Peppino idle/body idle/idlefrown_31.png<>uid://dkpmmfh0lexy::::res://plattformer/player animation/Peppino idle/body idle/idlefrown_32.png<>uid://dxhaldkppptl0::::res://plattformer/player animation/Peppino idle/body idle/idle_00.png<>uid://yr1030pvi7mx::::res://plattformer/player animation/Peppino idle/body idle/idle_01.png<>uid://5uomvty0i484::::res://plattformer/player animation/Peppino idle/body idle/idle_02.png<>uid://yl537gdg2idp::::res://plattformer/player animation/Peppino idle/body idle/idle_03.png<>uid://bjpj6rkos1pjr::::res://plattformer/player animation/Peppino idle/body idle/idle_04.png<>uid://cf7mabu3cowp6::::res://plattformer/player animation/Peppino idle/body idle/idle_05-08.png<>uid://bi8ubq3fl1uiu::::res://plattformer/player animation/Peppino idle/body idle/idle_09.png<>uid://cap1xnt1dd8q6::::res://plattformer/player animation/Peppino idle/body idle/idle_10.png<>uid://c4403m4madp3y::::res://plattformer/player animation/Peppino idle/body idle/idle_11.png<>uid://00knoojpkip5::::res://plattformer/player animation/Peppino idle/body idle/idle_12.png<>uid://cph6cqbmd48uw::::res://plattformer/player animation/Peppino idle/body idle/idle_13.png<>uid://crlnt24vdv6hx::::res://plattformer/player animation/Peppino idle/body idle/idle_14.png<>uid://dtvmyacj8st1v::::res://plattformer/player animation/Peppino idle/body idle/idle_15.png<>uid://b2ekwc01v8kbu::::res://plattformer/player animation/Peppino idle/body idle/idle_16-17.png<>uid://dqmes2a47ocim::::res://plattformer/player animation/Peppino idle/body idle/idle_18.png<>uid://bih7tikx4jfw0::::res://plattformer/player animation/Peppino idle/body idle/idle_19.png<>uid://c1vdsjmw7ched::::res://plattformer/player animation/Peppino idle/body idle/idle_20.png<>uid://dbck56yr51u80::::res://plattformer/player animation/Peppino idle/body idle/idledance_35.png<>uid://da3u1o4y352p8::::res://plattformer/player animation/Peppino idle/body idle/idledance_36.png<>uid://d06gpc311nemq::::res://plattformer/player animation/Peppino idle/body idle/idledance_00.png<>uid://cxdj82lpnssep::::res://plattformer/player animation/Peppino idle/body idle/idledance_01.png<>uid://ivewshh3nv5j::::res://plattformer/player animation/Peppino idle/body idle/idledance_02_10_18_26.png<>uid://c31w1jvq8cm5a::::res://plattformer/player animation/Peppino idle/body idle/idledance_03_11_19_27.png<>uid://c70cp3rnt2rgv::::res://plattformer/player animation/Peppino idle/body idle/idledance_04_12_20_28.png<>uid://dh71dvqhw7ovh::::res://plattformer/player animation/Peppino idle/body idle/idledance_05_13_21_29.png<>uid://yaqt7xs51g6c::::res://plattformer/player animation/Peppino idle/body idle/idledance_06_14_22_30.png<>uid://ofmnyb66e18s::::res://plattformer/player animation/Peppino idle/body idle/idledance_07_15_23_31.png<>uid://2usy0b2qsuff::::res://plattformer/player animation/Peppino idle/body idle/idledance_08_16_24_32.png<>uid://ciokndbqt88e4::::res://plattformer/player animation/Peppino idle/body idle/idledance_09_17_25_33.png<>uid://br6qdoj3avpea::::res://plattformer/player animation/Peppino idle/body idle/idledance_34.png<>uid://dbxbju451xfhb::::res://plattformer/player animation/Peppino jump/jump_00.png<>uid://7t6dajuxfiqd::::res://plattformer/player animation/Peppino jump/jump_01.png<>uid://bap7hijh3jwjj::::res://plattformer/player animation/Peppino jump/jump_02.png<>uid://hixoyidtkkml::::res://plattformer/player animation/Peppino jump/jump_03.png<>uid://bxc5y1pdml2yk::::res://plattformer/player animation/Peppino jump/jump_04.png<>uid://ce5grijjxa6ym::::res://plattformer/player animation/Peppino jump/jump_05.png<>uid://jwerq77qc6yt::::res://plattformer/player animation/Peppino jump/jump_06.png<>uid://cc5kkr8mgdv6o::::res://plattformer/player animation/Peppino jump/jump_07.png<>uid://dtiu4cdqgnhig::::res://plattformer/player animation/Peppino jump/jump_08.png<>uid://btn4yjqa3fdhu::::res://plattformer/player animation/Peppino jump/jump_09.png<>uid://cxrh1y3fqd72j::::res://plattformer/player animation/Peppino jump/jump_10.png<>uid://co4x55nntq7o7::::res://plattformer/player animation/Peppino jump/jump_11.png<>uid://dl4ja8ny27j0c::::res://plattformer/player animation/Peppino walk/move_00.png<>uid://cqpphaul8acuc::::res://plattformer/player animation/Peppino walk/move_01.png<>uid://pjh1xkootrf2::::res://plattformer/player animation/Peppino walk/move_02.png<>uid://c5m8a6h5teggs::::res://plattformer/player animation/Peppino walk/move_03.png<>uid://d4dygpcnbo1ue::::res://plattformer/player animation/Peppino walk/move_04.png<>uid://yqydm5mknwwh::::res://plattformer/player animation/Peppino walk/move_05.png<>uid://1cp02522kl3i::::res://plattformer/player animation/Peppino walk/move_06.png<>uid://c4ooschvjecfp::::res://plattformer/player animation/Peppino walk/move_07.png<>uid://dimw64j1vb0np::::res://plattformer/player animation/Peppino walk/move_08.png<>uid://g3r8dvwfmda7::::res://plattformer/player animation/Peppino walk/move_09.png<>uid://dhbiff0k66r0s::::res://plattformer/player animation/Peppino walk/move_10.png<>uid://glrfeo0mo32q::::res://plattformer/player animation/Peppino walk/move_11.png
+tile_map.tscn::PackedScene::6513664644978662490::1680261918::0::1::::<><>::uid://bqmfodm86t5lj::::res://plattformer/tilemap/Nature Platformer/Nature Platformer/tileset-16x16.png
+::res://71 Godot project/plattformer/player animation/::1731605270
+tile_map.tscn::PackedScene::6943073629065128817::1680260214::0::1::::<><>::uid://bqmfodm86t5lj::::res://plattformer/tilemap/Nature Platformer/Nature Platformer/tileset-16x16.png
+::res://71 Godot project/plattformer/player animation/Misc/::1731605270
+pepdance_00.png::CompressedTexture2D::6706215581846806910::1680255052::1731605322::1::::<><>::
+pepdance_01.png::CompressedTexture2D::2396402440387931009::1680255052::1731605322::1::::<><>::
+pepdance_02.png::CompressedTexture2D::6807978223719381958::1680255052::1731605322::1::::<><>::
+pepdance_03.png::CompressedTexture2D::5667769336354305308::1680255052::1731605322::1::::<><>::
+pepdance_04.png::CompressedTexture2D::8450173798606388849::1680255052::1731605322::1::::<><>::
+pepdance_05.png::CompressedTexture2D::6432312358413700699::1680255052::1731605322::1::::<><>::
+pepdance_06.png::CompressedTexture2D::7838719788263709827::1680255052::1731605322::1::::<><>::
+pepdance_07.png::CompressedTexture2D::2946262679523914660::1680255052::1731605322::1::::<><>::
+pepdance_08.png::CompressedTexture2D::7105989304053277245::1680255052::1731605322::1::::<><>::
+pepdance_09.png::CompressedTexture2D::7361571336928476030::1680255052::1731605322::1::::<><>::
+pepdance_10.png::CompressedTexture2D::9106864831007621420::1680255052::1731605322::1::::<><>::
+pepdance_11.png::CompressedTexture2D::3374620275993992623::1680255052::1731605322::1::::<><>::
+pepdance_12.png::CompressedTexture2D::1861041176855326971::1680255052::1731605322::1::::<><>::
+pepdance_13.png::CompressedTexture2D::2914318601939836564::1680255052::1731605322::1::::<><>::
+pepdance_14.png::CompressedTexture2D::1104012421894413885::1680255052::1731605322::1::::<><>::
+pepdance_15.png::CompressedTexture2D::1450183198456675258::1680255052::1731605322::1::::<><>::
+::res://71 Godot project/plattformer/player animation/Peppino climb/::1731605270
+ladder.png::CompressedTexture2D::9170967447803623986::1680254936::1731605322::1::::<><>::
+ladderdown_00.png::CompressedTexture2D::2062311396309245298::1680254936::1731605322::1::::<><>::
+ladderdown_01.png::CompressedTexture2D::1696555936649065392::1680254936::1731605322::1::::<><>::
+laddermove_00.png::CompressedTexture2D::7239660349574557826::1680254936::1731605322::1::::<><>::
+laddermove_01.png::CompressedTexture2D::3882558342262422871::1680254936::1731605322::1::::<><>::
+laddermove_02.png::CompressedTexture2D::1841651530954741452::1680254936::1731605322::1::::<><>::
+laddermove_03.png::CompressedTexture2D::7234492749836754616::1680254936::1731605322::1::::<><>::
+laddermove_04.png::CompressedTexture2D::1966557623976958804::1680254936::1731605322::1::::<><>::
+laddermove_05.png::CompressedTexture2D::7654377773419272645::1680254936::1731605322::1::::<><>::
+laddermove_06.png::CompressedTexture2D::981435969707324112::1680254936::1731605322::1::::<><>::
+laddermove_07.png::CompressedTexture2D::4573936898004441997::1680254936::1731605322::1::::<><>::
+::res://71 Godot project/plattformer/player animation/Peppino crawl/::1731605270
+::res://71 Godot project/plattformer/player animation/Peppino crawl/Crawl/::1731605270
+crawl_00.png::CompressedTexture2D::2799079252828783272::1680248874::1731605322::1::::<><>::
+crawl_01.png::CompressedTexture2D::7355128373666657482::1680248874::1731605322::1::::<><>::
+crawl_02.png::CompressedTexture2D::8837779811343085080::1680248874::1731605322::1::::<><>::
+crawl_03.png::CompressedTexture2D::6937629721141171001::1680248874::1731605322::1::::<><>::
+crawl_04.png::CompressedTexture2D::8156040012024507799::1680248874::1731605322::1::::<><>::
+crawl_05.png::CompressedTexture2D::5828001234430530662::1680248874::1731605322::1::::<><>::
+crawl_06.png::CompressedTexture2D::5655743001116407834::1680248874::1731605322::1::::<><>::
+crawl_07.png::CompressedTexture2D::7288242169549647162::1680248874::1731605322::1::::<><>::
+crawl_08.png::CompressedTexture2D::1843231306213903657::1680248874::1731605322::1::::<><>::
+crawl_09.png::CompressedTexture2D::1719164606456033260::1680248874::1731605322::1::::<><>::
+crawl_10.png::CompressedTexture2D::8982518312296121492::1680248874::1731605322::1::::<><>::
+crawl_11.png::CompressedTexture2D::7283697048654111927::1680248874::1731605322::1::::<><>::
+crawl_12.png::CompressedTexture2D::3927493631654501913::1680248874::1731605322::1::::<><>::
+crawl_13.png::CompressedTexture2D::1811499410004340841::1680248874::1731605322::1::::<><>::
+crawl_14.png::CompressedTexture2D::6466536609555098115::1680248874::1731605322::1::::<><>::
+crawl_15.png::CompressedTexture2D::2410449988561818947::1680248874::1731605322::1::::<><>::
+::res://71 Godot project/plattformer/player animation/Peppino crawl/jumpcrouch/::1731605270
+crouchfall_00.png::CompressedTexture2D::4872005568121826912::1680249012::1731605322::1::::<><>::
+crouchfall_01.png::CompressedTexture2D::5108852937087351013::1680249012::1731605322::1::::<><>::
+crouchfall_02.png::CompressedTexture2D::451729475074054298::1680249012::1731605322::1::::<><>::
+crouchjump_00.png::CompressedTexture2D::1295132434532302072::1680249012::1731605322::1::::<><>::
+crouchjump_01.png::CompressedTexture2D::2632885783254463683::1680249012::1731605322::1::::<><>::
+crouchjump_02.png::CompressedTexture2D::1938154634607391597::1680249012::1731605322::1::::<><>::
+crouchjump_03.png::CompressedTexture2D::5081658170652196712::1680249012::1731605322::1::::<><>::
+crouchjump_04.png::CompressedTexture2D::916872181159536356::1680249012::1731605322::1::::<><>::
+crouchjump_05.png::CompressedTexture2D::5542290496774409517::1680249012::1731605322::1::::<><>::
+crouchjump_06.png::CompressedTexture2D::7895591204493255549::1680249012::1731605322::1::::<><>::
+crouchjump_07.png::CompressedTexture2D::6740743271742241868::1680249012::1731605322::1::::<><>::
+crouchjump_08.png::CompressedTexture2D::124666002736964108::1680249012::1731605322::1::::<><>::
+::res://71 Godot project/plattformer/player animation/Peppino dash/::1731605270
+::res://71 Godot project/plattformer/player animation/Peppino dash/dashpad/::1731605270
+dashpad_00.png::CompressedTexture2D::250069428796994579::1680255192::1731605322::1::::<><>::
+dashpad_01.png::CompressedTexture2D::3691225189313919749::1680255192::1731605322::1::::<><>::
+dashpad_02.png::CompressedTexture2D::6175758997240826402::1680255192::1731605322::1::::<><>::
+dashpad_03.png::CompressedTexture2D::2705616666455994164::1680255192::1731605322::1::::<><>::
+dashpad_04.png::CompressedTexture2D::9123651200652143444::1680255192::1731605322::1::::<><>::
+dashpad_05.png::CompressedTexture2D::8702938354806663805::1680255192::1731605322::1::::<><>::
+dashpad_06.png::CompressedTexture2D::7801396731493201534::1680255192::1731605322::1::::<><>::
+dashpad_07.png::CompressedTexture2D::4266663382262509157::1680255192::1731605322::1::::<><>::
+dashpad_08.png::CompressedTexture2D::98644537299010027::1680255192::1731605322::1::::<><>::
+::res://71 Godot project/plattformer/player animation/Peppino dash/grabdash/::1680255202
+::res://71 Godot project/plattformer/player animation/Peppino door/::1731605270
+::res://71 Godot project/plattformer/player animation/Peppino door/Peppino enter/::1731605270
+walkfront_00.png::CompressedTexture2D::2501706520915626321::1680248498::1731605322::1::::<><>::
+walkfront_01.png::CompressedTexture2D::7336038074947375556::1680248498::1731605322::1::::<><>::
+walkfront_02.png::CompressedTexture2D::6106903296921427712::1680248498::1731605322::1::::<><>::
+walkfront_03.png::CompressedTexture2D::5556865359932185700::1680248498::1731605322::1::::<><>::
+walkfront_04.png::CompressedTexture2D::3957209039675859867::1680248498::1731605322::1::::<><>::
+walkfront_05.png::CompressedTexture2D::168061531399250829::1680248498::1731605322::1::::<><>::
+walkfront_06.png::CompressedTexture2D::6195215540974086816::1680248500::1731605322::1::::<><>::
+walkfront_07.png::CompressedTexture2D::8918269399423668165::1680248500::1731605322::1::::<><>::
+walkfront_08.png::CompressedTexture2D::3478793902508425078::1680248500::1731605322::1::::<><>::
+walkfront_09.png::CompressedTexture2D::8220688328796053568::1680248500::1731605322::1::::<><>::
+walkfront_10.png::CompressedTexture2D::9211075238031747677::1680248500::1731605322::1::::<><>::
+walkfront_11.png::CompressedTexture2D::5056726464959012965::1680248500::1731605322::1::::<><>::
+walkfront_12.png::CompressedTexture2D::5042791060277632573::1680248500::1731605322::1::::<><>::
+walkfront_13.png::CompressedTexture2D::2012860281515127601::1680248500::1731605322::1::::<><>::
+walkfront_14.png::CompressedTexture2D::7619246913513488521::1680248500::1731605322::1::::<><>::
+walkfront_15.png::CompressedTexture2D::5679057294830317106::1680248500::1731605322::1::::<><>::
+::res://71 Godot project/plattformer/player animation/Peppino door/Peppino exit/::1731605270
+entergate_00.png::CompressedTexture2D::7604423749417760084::1680249172::1731605322::1::::<><>::
+entergate_01.png::CompressedTexture2D::5888365680098888684::1680249172::1731605322::1::::<><>::
+entergate_02.png::CompressedTexture2D::734392315773802496::1680249172::1731605322::1::::<><>::
+entergate_03.png::CompressedTexture2D::3617392140244384131::1680249172::1731605322::1::::<><>::
+entergate_04.png::CompressedTexture2D::4933599660672117805::1680249172::1731605322::1::::<><>::
+entergate_05-17.png::CompressedTexture2D::2366632034098485639::1680249172::1731605322::1::::<><>::
+entergate_18.png::CompressedTexture2D::7473964819460157287::1680249172::1731605322::1::::<><>::
+entergate_19.png::CompressedTexture2D::6133991679849728493::1680249172::1731605322::1::::<><>::
+entergate_20.png::CompressedTexture2D::3870712753658906539::1680249172::1731605322::1::::<><>::
+entergate_21.png::CompressedTexture2D::4183497917187969553::1680249172::1731605322::1::::<><>::
+entergate_22.png::CompressedTexture2D::5943715901798451315::1680249172::1731605322::1::::<><>::
+entergate_23_26_29.png::CompressedTexture2D::8398747325768287366::1680249172::1731605322::1::::<><>::
+entergate_24_27_30.png::CompressedTexture2D::4464947788935552507::1680249172::1731605322::1::::<><>::
+entergate_25_28_31.png::CompressedTexture2D::6432705117583961975::1680249172::1731605322::1::::<><>::
+entergate_32.png::CompressedTexture2D::2299670427422671365::1680249172::1731605322::1::::<><>::
+entergate_33.png::CompressedTexture2D::3562176717120327904::1680249172::1731605322::1::::<><>::
+entergate_34.png::CompressedTexture2D::6722259224843487434::1680249172::1731605322::1::::<><>::
+entergate_35.png::CompressedTexture2D::177095075368817237::1680249172::1731605322::1::::<><>::
+entergate_36-44.png::CompressedTexture2D::8074863999445632419::1680249172::1731605322::1::::<><>::
+::res://71 Godot project/plattformer/player animation/Peppino idle/::1731605270
+::res://71 Godot project/plattformer/player animation/Peppino idle/body idle/::1731605270
+idle2_00.png::CompressedTexture2D::1418405278834466967::1680254824::1731605322::1::::<><>::
+idle2_01.png::CompressedTexture2D::38511554811204596::1680254824::1731605322::1::::<><>::
+idle2_02.png::CompressedTexture2D::1678795799500488168::1680254824::1731605322::1::::<><>::
+idle2_03.png::CompressedTexture2D::6184854757434423700::1680254824::1731605322::1::::<><>::
+idle2_04.png::CompressedTexture2D::3730075412807719215::1680254824::1731605322::1::::<><>::
+idle2_05.png::CompressedTexture2D::1999008725088787446::1680254824::1731605322::1::::<><>::
+idle2_06.png::CompressedTexture2D::8997998400586857922::1680254824::1731605322::1::::<><>::
+idle2_07.png::CompressedTexture2D::8764888375005772380::1680254824::1731605322::1::::<><>::
+idledance_00.png::CompressedTexture2D::8978370090788943744::1680254824::1731605322::1::::<><>::
+idledance_01.png::CompressedTexture2D::6393984724279820639::1680254824::1731605322::1::::<><>::
+idledance_02_10_18_26.png::CompressedTexture2D::605145793966423073::1680254824::1731605322::1::::<><>::
+idledance_03_11_19_27.png::CompressedTexture2D::6793185521261255948::1680254826::1731605322::1::::<><>::
+idledance_04_12_20_28.png::CompressedTexture2D::7070643526081450253::1680254826::1731605322::1::::<><>::
+idledance_05_13_21_29.png::CompressedTexture2D::7718229171925031113::1680254826::1731605322::1::::<><>::
+idledance_06_14_22_30.png::CompressedTexture2D::1685539366417897448::1680254826::1731605322::1::::<><>::
+idledance_07_15_23_31.png::CompressedTexture2D::993718782492034316::1680254826::1731605322::1::::<><>::
+idledance_08_16_24_32.png::CompressedTexture2D::1937523414109010351::1680254826::1731605322::1::::<><>::
+idledance_09_17_25_33.png::CompressedTexture2D::5363883950164273697::1680254826::1731605322::1::::<><>::
+idledance_34.png::CompressedTexture2D::3644604315684659244::1680254826::1731605322::1::::<><>::
+idledance_35.png::CompressedTexture2D::7234242060082965531::1680254826::1731605322::1::::<><>::
+idledance_36.png::CompressedTexture2D::7218326179945142011::1680254826::1731605322::1::::<><>::
+idlefrown_00.png::CompressedTexture2D::5460846478033890050::1680254826::1731605322::1::::<><>::
+idlefrown_01.png::CompressedTexture2D::2371162809392894659::1680254826::1731605322::1::::<><>::
+idlefrown_02.png::CompressedTexture2D::928330996466201067::1680254826::1731605322::1::::<><>::
+idlefrown_03-29.png::CompressedTexture2D::3029972627586563373::1680254826::1731605323::1::::<><>::
+idlefrown_30.png::CompressedTexture2D::2257471133011033051::1680254826::1731605323::1::::<><>::
+idlefrown_31.png::CompressedTexture2D::6445231216173828041::1680254826::1731605323::1::::<><>::
+idlefrown_32.png::CompressedTexture2D::232143131229168574::1680254824::1731605323::1::::<><>::
+idle_00.png::CompressedTexture2D::8788075916485703203::1680254824::1731605323::1::::<><>::
+idle_01.png::CompressedTexture2D::1721251465775204575::1680254824::1731605323::1::::<><>::
+idle_02.png::CompressedTexture2D::2147825465113600899::1680254824::1731605323::1::::<><>::
+idle_03.png::CompressedTexture2D::1709113604781191725::1680254824::1731605323::1::::<><>::
+idle_04.png::CompressedTexture2D::3049688664298425263::1680254824::1731605323::1::::<><>::
+idle_05-08.png::CompressedTexture2D::5190574362314353669::1680254824::1731605323::1::::<><>::
+idle_09.png::CompressedTexture2D::3017272908201614996::1680254824::1731605323::1::::<><>::
+idle_10.png::CompressedTexture2D::4805427462109161867::1680254824::1731605323::1::::<><>::
+idle_11.png::CompressedTexture2D::6869753390430264548::1680254824::1731605323::1::::<><>::
+idle_12.png::CompressedTexture2D::1806961677434262812::1680254824::1731605323::1::::<><>::
+idle_13.png::CompressedTexture2D::5842011307067495962::1680254824::1731605323::1::::<><>::
+idle_14.png::CompressedTexture2D::5989584579406363577::1680254824::1731605323::1::::<><>::
+idle_15.png::CompressedTexture2D::8536973479547445909::1680254824::1731605323::1::::<><>::
+idle_16-17.png::CompressedTexture2D::4290423575207290294::1680254824::1731605323::1::::<><>::
+idle_18.png::CompressedTexture2D::8307332514089289396::1680254824::1731605323::1::::<><>::
+idle_19.png::CompressedTexture2D::2964359387647472529::1680254824::1731605323::1::::<><>::
+idle_20.png::CompressedTexture2D::6641318022369120119::1680254824::1731605323::1::::<><>::
+::res://71 Godot project/plattformer/player animation/Peppino idle/hand idle/::1731605270
+handgesture1_00.png::CompressedTexture2D::2663606956669370419::1680255296::1731605323::1::::<><>::
+handgesture1_01.png::CompressedTexture2D::6478173681713567821::1680255296::1731605323::1::::<><>::
+handgesture1_02.png::CompressedTexture2D::10156530562427071::1680255296::1731605323::1::::<><>::
+handgesture1_03-04.png::CompressedTexture2D::1295404221183653965::1680255296::1731605323::1::::<><>::
+handgesture1_05.png::CompressedTexture2D::3036221298014673557::1680255296::1731605323::1::::<><>::
+handgesture1_06.png::CompressedTexture2D::3495966987154258184::1680255296::1731605323::1::::<><>::
+handgesture1_07.png::CompressedTexture2D::8199536641154786276::1680255296::1731605323::1::::<><>::
+handgesture1_08.png::CompressedTexture2D::4733555087939788932::1680255296::1731605323::1::::<><>::
+handgesture1_09-10.png::CompressedTexture2D::5470651469218151706::1680255296::1731605323::1::::<><>::
+handgesture1_11.png::CompressedTexture2D::2738512382014269621::1680255296::1731605323::1::::<><>::
+handgesture1_12-13.png::CompressedTexture2D::6530218995385449383::1680255296::1731605323::1::::<><>::
+handgesture1_14.png::CompressedTexture2D::386003046219253614::1680255296::1731605323::1::::<><>::
+handgesture1_15-16.png::CompressedTexture2D::1880626547216180737::1680255296::1731605323::1::::<><>::
+handgesture1_17.png::CompressedTexture2D::7717541057787377765::1680255296::1731605323::1::::<><>::
+handgesture1_18-19.png::CompressedTexture2D::3593200431140095412::1680255296::1731605323::1::::<><>::
+handgesture1_20.png::CompressedTexture2D::4057201537756558432::1680255296::1731605323::1::::<><>::
+handgesture1_21-22.png::CompressedTexture2D::215521723435789797::1680255296::1731605323::1::::<><>::
+handgesture1_23.png::CompressedTexture2D::8173974559569771284::1680255296::1731605323::1::::<><>::
+handgesture1_24.png::CompressedTexture2D::2135780631584611140::1680255296::1731605323::1::::<><>::
+handgesture1_25.png::CompressedTexture2D::1774311412535557579::1680255296::1731605323::1::::<><>::
+handgesture2_00.png::CompressedTexture2D::4817352474349433183::1680255296::1731605323::1::::<><>::
+handgesture2_01.png::CompressedTexture2D::3094964853061367211::1680255296::1731605323::1::::<><>::
+handgesture2_02.png::CompressedTexture2D::661080066749244263::1680255296::1731605323::1::::<><>::
+handgesture2_03-05.png::CompressedTexture2D::5824793915281838312::1680255296::1731605323::1::::<><>::
+handgesture2_06.png::CompressedTexture2D::7078856199598011851::1680255296::1731605323::1::::<><>::
+handgesture2_07.png::CompressedTexture2D::6550506351727134662::1680255296::1731605323::1::::<><>::
+handgesture2_08.png::CompressedTexture2D::6843526035230176374::1680255296::1731605323::1::::<><>::
+handgesture2_09.png::CompressedTexture2D::6701193359749885408::1680255296::1731605323::1::::<><>::
+handgesture2_10.png::CompressedTexture2D::1925203190287648929::1680255296::1731605323::1::::<><>::
+handgesture2_11.png::CompressedTexture2D::6426684002104647166::1680255296::1731605323::1::::<><>::
+handgesture2_12.png::CompressedTexture2D::1376938782093458596::1680255296::1731605323::1::::<><>::
+handgesture2_13.png::CompressedTexture2D::7970003560843916785::1680255296::1731605323::1::::<><>::
+handgesture2_14.png::CompressedTexture2D::8827918366852675379::1680255296::1731605323::1::::<><>::
+handgesture3_00.png::CompressedTexture2D::4383062013874765409::1680255296::1731605323::1::::<><>::
+handgesture3_01.png::CompressedTexture2D::2081383034018443725::1680255296::1731605323::1::::<><>::
+handgesture3_02.png::CompressedTexture2D::2466764776485322126::1680255296::1731605323::1::::<><>::
+handgesture3_03-05.png::CompressedTexture2D::5242710628650647184::1680255296::1731605323::1::::<><>::
+handgesture3_06.png::CompressedTexture2D::5127395091942246250::1680255296::1731605323::1::::<><>::
+handgesture3_07.png::CompressedTexture2D::8491913976979913710::1680255296::1731605323::1::::<><>::
+handgesture3_08.png::CompressedTexture2D::2812465568932703772::1680255296::1731605323::1::::<><>::
+handgesture3_09.png::CompressedTexture2D::1085192955409679588::1680255296::1731605323::1::::<><>::
+handgesture3_10.png::CompressedTexture2D::7108096605830878080::1680255296::1731605322::1::::<><>::
+handgesture3_11-12.png::CompressedTexture2D::6600698425740811499::1680255296::1731605322::1::::<><>::
+handgesture3_13.png::CompressedTexture2D::7301749293924677987::1680255296::1731605322::1::::<><>::
+handgesture3_14.png::CompressedTexture2D::3172414163433194148::1680255296::1731605322::1::::<><>::
+handgesture3_15.png::CompressedTexture2D::5515524905358412055::1680255296::1731605322::1::::<><>::
+handgesture3_16.png::CompressedTexture2D::2258521258836996308::1680255296::1731605322::1::::<><>::
+handgesture3_17.png::CompressedTexture2D::3924322370694456441::1680255296::1731605322::1::::<><>::
+handgesture3_18.png::CompressedTexture2D::6354950776850418953::1680255296::1731605322::1::::<><>::
+handgesture3_19.png::CompressedTexture2D::5498178892190689616::1680255296::1731605322::1::::<><>::
+handgesture3_20.png::CompressedTexture2D::4464501284815376247::1680255296::1731605322::1::::<><>::
+handgesture3_21.png::CompressedTexture2D::3475866148182697643::1680255296::1731605322::1::::<><>::
+handgesture3_22.png::CompressedTexture2D::8035885793786336882::1680255296::1731605322::1::::<><>::
+handgesture4_00.png::CompressedTexture2D::8435786007069720826::1680255296::1731605322::1::::<><>::
+handgesture4_01.png::CompressedTexture2D::2273375908211334270::1680255296::1731605322::1::::<><>::
+handgesture4_02.png::CompressedTexture2D::4101588656541490294::1680255296::1731605322::1::::<><>::
+handgesture4_03-12.png::CompressedTexture2D::5863820082327540208::1680255296::1731605322::1::::<><>::
+handgesture4_13.png::CompressedTexture2D::6431521905984705934::1680255296::1731605322::1::::<><>::
+handgesture4_14.png::CompressedTexture2D::5312293406274121142::1680255296::1731605322::1::::<><>::
+handgesture4_15.png::CompressedTexture2D::8168445301923118866::1680255296::1731605322::1::::<><>::
+::res://71 Godot project/plattformer/player animation/Peppino jump/::1731605270
+jump_00.png::CompressedTexture2D::7277009468863669339::1680254888::1731605322::1::::<><>::
+jump_01.png::CompressedTexture2D::2287153772744537371::1680254888::1731605322::1::::<><>::
+jump_02.png::CompressedTexture2D::2419342228775744571::1680254888::1731605322::1::::<><>::
+jump_03.png::CompressedTexture2D::509259692527942571::1680254888::1731605322::1::::<><>::
+jump_04.png::CompressedTexture2D::4006758600644653534::1680254888::1731605322::1::::<><>::
+jump_05.png::CompressedTexture2D::5115923169542839048::1680254888::1731605322::1::::<><>::
+jump_06.png::CompressedTexture2D::677390021081829455::1680254888::1731605322::1::::<><>::
+jump_07.png::CompressedTexture2D::4975776359579658296::1680254888::1731605322::1::::<><>::
+jump_08.png::CompressedTexture2D::8510631340529585594::1680254888::1731605322::1::::<><>::
+jump_09.png::CompressedTexture2D::3748649772927078006::1680254888::1731605322::1::::<><>::
+jump_10.png::CompressedTexture2D::6422751946534497111::1680254888::1731605323::1::::<><>::
+jump_11.png::CompressedTexture2D::5816803794236843532::1680254888::1731605323::1::::<><>::
+::res://71 Godot project/plattformer/player animation/Peppino walk/::1731605270
+move_00.png::CompressedTexture2D::7991754493381103464::1680254990::1731605323::1::::<><>::
+move_01.png::CompressedTexture2D::5927751818794428194::1680254990::1731605323::1::::<><>::
+move_02.png::CompressedTexture2D::1071884728088585025::1680254990::1731605323::1::::<><>::
+move_03.png::CompressedTexture2D::6905284510763287110::1680254990::1731605323::1::::<><>::
+move_04.png::CompressedTexture2D::9202400363966684980::1680254990::1731605323::1::::<><>::
+move_05.png::CompressedTexture2D::1719025533769303251::1680254990::1731605323::1::::<><>::
+move_06.png::CompressedTexture2D::1829995555573911500::1680254990::1731605323::1::::<><>::
+move_07.png::CompressedTexture2D::6838101420461658577::1680254990::1731605323::1::::<><>::
+move_08.png::CompressedTexture2D::7746938004974040197::1680254990::1731605323::1::::<><>::
+move_09.png::CompressedTexture2D::480026950035438812::1680254990::1731605323::1::::<><>::
+move_10.png::CompressedTexture2D::7653143300945126544::1680254990::1731605323::1::::<><>::
+move_11.png::CompressedTexture2D::444882567842573798::1680254990::1731605323::1::::<><>::
+::res://71 Godot project/plattformer/player animation/Transistions/::1731605270
+::res://71 Godot project/plattformer/player animation/Transistions/Crouch/::1731605270
+crouch_00-40.png::CompressedTexture2D::5437919702320917002::1680249012::1731605323::1::::<><>::
+crouch_41.png::CompressedTexture2D::9185566193249501437::1680249012::1731605323::1::::<><>::
+crouch_42.png::CompressedTexture2D::6285337986402972286::1680249012::1731605323::1::::<><>::
+crouch_43.png::CompressedTexture2D::4006818896786945645::1680249012::1731605323::1::::<><>::
+::res://71 Godot project/plattformer/tilemap/::1731605270
+::res://71 Godot project/plattformer/tilemap/Nature Platformer/::1731605270
+::res://71 Godot project/plattformer/tilemap/Nature Platformer/Nature Platformer/::1731605270
+RottingPixels.txt::TextFile::-1::1679660144::0::1::::<><>::
+screenshot-1.png::CompressedTexture2D::4892694408543920827::1679660144::1731605323::1::::<><>::
+screenshot-2.png::CompressedTexture2D::5058346384916618655::1679660144::1731605323::1::::<><>::
+tileset-16x16.png::CompressedTexture2D::3534543478678118047::1679660144::1731605323::1::::<><>::
+::res://dodge_assets/::1731605270
+::res://dodge_assets/dodge_assets/::1731605270
+::res://dodge_assets/dodge_assets/art/::1731605270
+enemyFlyingAlt_1.png::CompressedTexture2D::6444101604825984322::1679658310::1731605323::1::::<><>::
+enemyFlyingAlt_2.png::CompressedTexture2D::8809952076430656134::1679658310::1731605323::1::::<><>::
+enemySwimming_1.png::CompressedTexture2D::3195679392148132674::1679658310::1731605323::1::::<><>::
+enemySwimming_2.png::CompressedTexture2D::8837473409930937598::1679658310::1731605323::1::::<><>::
+enemyWalking_1.png::CompressedTexture2D::3817258429773998229::1679658310::1731605323::1::::<><>::
+enemyWalking_2.png::CompressedTexture2D::218834527330644780::1679658310::1731605323::1::::<><>::
+gameover.wav::AudioStreamWAV::5459305492821949827::1679658310::1731605323::1::::<><>::
+House In a Forest Loop.ogg::AudioStreamOggVorbis::5312409844362729562::1679658310::1731605320::1::::<><>::
+playerGrey_up1.png::CompressedTexture2D::5816642479951123827::1679658310::1731605323::1::::<><>::
+playerGrey_up2.png::CompressedTexture2D::2333606551715977489::1679658310::1731605323::1::::<><>::
+playerGrey_walk1.png::CompressedTexture2D::3499381716562593579::1679658310::1731605323::1::::<><>::
+playerGrey_walk2.png::CompressedTexture2D::3127164929668177925::1679658310::1731605323::1::::<><>::
+::res://dodge_assets/dodge_assets/fonts/::1731605270
+FONTLOG.txt::TextFile::-1::1679658310::0::1::::<><>::
+LICENSE.txt::TextFile::-1::1679658310::0::1::::<><>::
+Xolonium-Regular.ttf::FontFile::9086729984719107627::1679658310::1731605320::1::::<><>::
+::res://my godot storage assets/::1731605270
+::res://my godot storage assets/start-assets/::1731605270
+::res://my godot storage assets/start-assets/start-assets/::1731605270
+background.png::CompressedTexture2D::4208960950360690261::1679059300::1731605321::1::::<><>::
+bumper.png::CompressedTexture2D::909143776570484013::1679059300::1731605321::1::::<><>::
+coin.png::CompressedTexture2D::7813621910703121196::1679059300::1731605321::1::::<><>::
+enemy.png::CompressedTexture2D::9126281948100949110::1679059300::1731605321::1::::<><>::
+font_default.tres::FontFile::-1::1679059300::0::1::::<><>::res://assets/montserrat_extrabold.otf
+font_title.tres::FontFile::-1::1679059300::0::1::::<><>::res://assets/montserrat_extrabold.otf
+icon.png::CompressedTexture2D::8677889863438092131::1679059300::1731605321::1::::<><>::
+light.png::CompressedTexture2D::8318928791666730653::1679059300::1731605321::1::::<><>::
+montserrat_extrabold.otf::FontFile::2610649047962714844::1679059300::1731605320::1::::<><>::
+player.png::CompressedTexture2D::8652292775946947784::1679059300::1731605321::1::::<><>::
+portal.png::CompressedTexture2D::6105881198690629125::1679059300::1731605321::1::::<><>::
+tileset.png::CompressedTexture2D::254959320095448918::1679059300::1731605321::1::::<><>::
+tileset.tres::TileSet::-1::1679059300::0::1::::<><>::res://assets/tileset.png
+::res://plattformer/::1731605271
+level.tscn::PackedScene::2782170535212830258::1684908028::0::1::::<><>::uid://bqmfodm86t5lj::::res://plattformer/tilemap/Nature Platformer/Nature Platformer/tileset-16x16.png<>uid://cxtkjpi5n06es::::res://plattformer/My first platform.tscn
+My first platform.tscn::PackedScene::6427031992051032558::1684908026::0::1::::<><>::res://player character.gd<>uid://bbv30gqfo783v::::res://plattformer/player animation/Peppino door/Peppino enter/walkfront_00.png<>uid://dcrvqfovsfi65::::res://plattformer/player animation/Peppino door/Peppino enter/walkfront_01.png<>uid://ctah2mwq1ffe3::::res://plattformer/player animation/Peppino door/Peppino enter/walkfront_02.png<>uid://clf104janakfc::::res://plattformer/player animation/Peppino door/Peppino enter/walkfront_03.png<>uid://bwm5wi4otuwk6::::res://plattformer/player animation/Peppino door/Peppino enter/walkfront_04.png<>uid://cnn7i5ksdyun::::res://plattformer/player animation/Peppino door/Peppino enter/walkfront_05.png<>uid://cujaka25vuqou::::res://plattformer/player animation/Peppino door/Peppino enter/walkfront_06.png<>uid://d0ccugx40eil6::::res://plattformer/player animation/Peppino door/Peppino enter/walkfront_07.png<>uid://bptfhy1o1judy::::res://plattformer/player animation/Peppino door/Peppino enter/walkfront_08.png<>uid://dpefshj32x7ma::::res://plattformer/player animation/Peppino door/Peppino enter/walkfront_09.png<>uid://d4h6cfkql138l::::res://plattformer/player animation/Peppino door/Peppino enter/walkfront_10.png<>uid://cebrstjfs5awj::::res://plattformer/player animation/Peppino door/Peppino enter/walkfront_11.png<>uid://cd31bc82emgg0::::res://plattformer/player animation/Peppino door/Peppino enter/walkfront_12.png<>uid://3xbrrb5jvvbd::::res://plattformer/player animation/Peppino door/Peppino enter/walkfront_13.png<>uid://dgs25bkjxavqf::::res://plattformer/player animation/Peppino door/Peppino enter/walkfront_14.png<>uid://cm58ij8ia6bss::::res://plattformer/player animation/Peppino door/Peppino enter/walkfront_15.png<>uid://dglv0o3uwi8ya::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_00.png<>uid://cp5mr07nb8725::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_01.png<>uid://kp0lmjhvxiyi::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_02.png<>uid://brsj6jtlsk484::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_03.png<>uid://ccj4wvo4x5r8h::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_04.png<>uid://8yoc357fwwff::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_05-17.png<>uid://deqpdxtciq0ad::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_18.png<>uid://ctnl7gqh3h4t2::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_19.png<>uid://bvfacrag4r020::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_20.png<>uid://b0urum865kf6p::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_21.png<>uid://cqxgergmm26vv::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_22.png<>uid://drwoe2o6jnoo1::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_23_26_29.png<>uid://b4u4bjvuk2gmt::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_24_27_30.png<>uid://cxwbyi0x1n4n8::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_25_28_31.png<>uid://708ia06jy0m0::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_32.png<>uid://bq0ssa1w651cu::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_33.png<>uid://c21kvlfl8k4kc::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_34.png<>uid://cr1y25uss4yb::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_35.png<>uid://dnbr3h33p7ktf::::res://plattformer/player animation/Peppino door/Peppino exit/entergate_36-44.png<>uid://cj2jlxi7vllfe::::res://plattformer/player animation/Peppino idle/body idle/idlefrown_00.png<>uid://81ux8a4vwrod::::res://plattformer/player animation/Peppino idle/body idle/idlefrown_01.png<>uid://nhxqgea3ngx4::::res://plattformer/player animation/Peppino idle/body idle/idlefrown_02.png<>uid://bjf0hax7o6l8h::::res://plattformer/player animation/Peppino idle/body idle/idlefrown_03-29.png<>uid://7fshqawrq81t::::res://plattformer/player animation/Peppino idle/body idle/idlefrown_30.png<>uid://cx3eatbl44a8p::::res://plattformer/player animation/Peppino idle/body idle/idlefrown_31.png<>uid://dkpmmfh0lexy::::res://plattformer/player animation/Peppino idle/body idle/idlefrown_32.png<>uid://dxhaldkppptl0::::res://plattformer/player animation/Peppino idle/body idle/idle_00.png<>uid://yr1030pvi7mx::::res://plattformer/player animation/Peppino idle/body idle/idle_01.png<>uid://5uomvty0i484::::res://plattformer/player animation/Peppino idle/body idle/idle_02.png<>uid://yl537gdg2idp::::res://plattformer/player animation/Peppino idle/body idle/idle_03.png<>uid://bjpj6rkos1pjr::::res://plattformer/player animation/Peppino idle/body idle/idle_04.png<>uid://cf7mabu3cowp6::::res://plattformer/player animation/Peppino idle/body idle/idle_05-08.png<>uid://bi8ubq3fl1uiu::::res://plattformer/player animation/Peppino idle/body idle/idle_09.png<>uid://cap1xnt1dd8q6::::res://plattformer/player animation/Peppino idle/body idle/idle_10.png<>uid://c4403m4madp3y::::res://plattformer/player animation/Peppino idle/body idle/idle_11.png<>uid://00knoojpkip5::::res://plattformer/player animation/Peppino idle/body idle/idle_12.png<>uid://cph6cqbmd48uw::::res://plattformer/player animation/Peppino idle/body idle/idle_13.png<>uid://crlnt24vdv6hx::::res://plattformer/player animation/Peppino idle/body idle/idle_14.png<>uid://dtvmyacj8st1v::::res://plattformer/player animation/Peppino idle/body idle/idle_15.png<>uid://b2ekwc01v8kbu::::res://plattformer/player animation/Peppino idle/body idle/idle_16-17.png<>uid://dqmes2a47ocim::::res://plattformer/player animation/Peppino idle/body idle/idle_18.png<>uid://bih7tikx4jfw0::::res://plattformer/player animation/Peppino idle/body idle/idle_19.png<>uid://c1vdsjmw7ched::::res://plattformer/player animation/Peppino idle/body idle/idle_20.png<>uid://dbck56yr51u80::::res://plattformer/player animation/Peppino idle/body idle/idledance_35.png<>uid://da3u1o4y352p8::::res://plattformer/player animation/Peppino idle/body idle/idledance_36.png<>uid://d06gpc311nemq::::res://plattformer/player animation/Peppino idle/body idle/idledance_00.png<>uid://cxdj82lpnssep::::res://plattformer/player animation/Peppino idle/body idle/idledance_01.png<>uid://ivewshh3nv5j::::res://plattformer/player animation/Peppino idle/body idle/idledance_02_10_18_26.png<>uid://c31w1jvq8cm5a::::res://plattformer/player animation/Peppino idle/body idle/idledance_03_11_19_27.png<>uid://c70cp3rnt2rgv::::res://plattformer/player animation/Peppino idle/body idle/idledance_04_12_20_28.png<>uid://dh71dvqhw7ovh::::res://plattformer/player animation/Peppino idle/body idle/idledance_05_13_21_29.png<>uid://yaqt7xs51g6c::::res://plattformer/player animation/Peppino idle/body idle/idledance_06_14_22_30.png<>uid://ofmnyb66e18s::::res://plattformer/player animation/Peppino idle/body idle/idledance_07_15_23_31.png<>uid://2usy0b2qsuff::::res://plattformer/player animation/Peppino idle/body idle/idledance_08_16_24_32.png<>uid://ciokndbqt88e4::::res://plattformer/player animation/Peppino idle/body idle/idledance_09_17_25_33.png<>uid://br6qdoj3avpea::::res://plattformer/player animation/Peppino idle/body idle/idledance_34.png<>uid://dbxbju451xfhb::::res://plattformer/player animation/Peppino jump/jump_00.png<>uid://7t6dajuxfiqd::::res://plattformer/player animation/Peppino jump/jump_01.png<>uid://bap7hijh3jwjj::::res://plattformer/player animation/Peppino jump/jump_02.png<>uid://hixoyidtkkml::::res://plattformer/player animation/Peppino jump/jump_03.png<>uid://bxc5y1pdml2yk::::res://plattformer/player animation/Peppino jump/jump_04.png<>uid://ce5grijjxa6ym::::res://plattformer/player animation/Peppino jump/jump_05.png<>uid://jwerq77qc6yt::::res://plattformer/player animation/Peppino jump/jump_06.png<>uid://cc5kkr8mgdv6o::::res://plattformer/player animation/Peppino jump/jump_07.png<>uid://dtiu4cdqgnhig::::res://plattformer/player animation/Peppino jump/jump_08.png<>uid://btn4yjqa3fdhu::::res://plattformer/player animation/Peppino jump/jump_09.png<>uid://cxrh1y3fqd72j::::res://plattformer/player animation/Peppino jump/jump_10.png<>uid://co4x55nntq7o7::::res://plattformer/player animation/Peppino jump/jump_11.png<>uid://dl4ja8ny27j0c::::res://plattformer/player animation/Peppino walk/move_00.png<>uid://cqpphaul8acuc::::res://plattformer/player animation/Peppino walk/move_01.png<>uid://pjh1xkootrf2::::res://plattformer/player animation/Peppino walk/move_02.png<>uid://c5m8a6h5teggs::::res://plattformer/player animation/Peppino walk/move_03.png<>uid://d4dygpcnbo1ue::::res://plattformer/player animation/Peppino walk/move_04.png<>uid://yqydm5mknwwh::::res://plattformer/player animation/Peppino walk/move_05.png<>uid://1cp02522kl3i::::res://plattformer/player animation/Peppino walk/move_06.png<>uid://c4ooschvjecfp::::res://plattformer/player animation/Peppino walk/move_07.png<>uid://dimw64j1vb0np::::res://plattformer/player animation/Peppino walk/move_08.png<>uid://g3r8dvwfmda7::::res://plattformer/player animation/Peppino walk/move_09.png<>uid://dhbiff0k66r0s::::res://plattformer/player animation/Peppino walk/move_10.png<>uid://glrfeo0mo32q::::res://plattformer/player animation/Peppino walk/move_11.png
+tile_map.tscn::PackedScene::6513664644978662490::1684908026::0::1::::<><>::uid://bqmfodm86t5lj::::res://plattformer/tilemap/Nature Platformer/Nature Platformer/tileset-16x16.png
+::res://plattformer/player animation/::1731605271
+tile_map.tscn::PackedScene::6943073629065128817::1680260214::0::1::::<><>::uid://bqmfodm86t5lj::::res://plattformer/tilemap/Nature Platformer/Nature Platformer/tileset-16x16.png
+::res://plattformer/player animation/Misc/::1731605271
+pepdance_00.png::CompressedTexture2D::6706215581846806910::1680255052::1731605321::1::::<><>::
+pepdance_01.png::CompressedTexture2D::2396402440387931009::1680255052::1731605321::1::::<><>::
+pepdance_02.png::CompressedTexture2D::6807978223719381958::1680255052::1731605321::1::::<><>::
+pepdance_03.png::CompressedTexture2D::5667769336354305308::1680255052::1731605321::1::::<><>::
+pepdance_04.png::CompressedTexture2D::8450173798606388849::1680255052::1731605321::1::::<><>::
+pepdance_05.png::CompressedTexture2D::6432312358413700699::1680255052::1731605321::1::::<><>::
+pepdance_06.png::CompressedTexture2D::7838719788263709827::1680255052::1731605321::1::::<><>::
+pepdance_07.png::CompressedTexture2D::2946262679523914660::1680255052::1731605321::1::::<><>::
+pepdance_08.png::CompressedTexture2D::7105989304053277245::1680255052::1731605321::1::::<><>::
+pepdance_09.png::CompressedTexture2D::7361571336928476030::1680255052::1731605321::1::::<><>::
+pepdance_10.png::CompressedTexture2D::9106864831007621420::1680255052::1731605321::1::::<><>::
+pepdance_11.png::CompressedTexture2D::3374620275993992623::1680255052::1731605321::1::::<><>::
+pepdance_12.png::CompressedTexture2D::1861041176855326971::1680255052::1731605321::1::::<><>::
+pepdance_13.png::CompressedTexture2D::2914318601939836564::1680255052::1731605321::1::::<><>::
+pepdance_14.png::CompressedTexture2D::1104012421894413885::1680255052::1731605321::1::::<><>::
+pepdance_15.png::CompressedTexture2D::1450183198456675258::1680255052::1731605321::1::::<><>::
+::res://plattformer/player animation/Peppino climb/::1731605271
+ladder.png::CompressedTexture2D::9170967447803623986::1680254936::1731605321::1::::<><>::
+ladderdown_00.png::CompressedTexture2D::2062311396309245298::1680254936::1731605321::1::::<><>::
+ladderdown_01.png::CompressedTexture2D::1696555936649065392::1680254936::1731605321::1::::<><>::
+laddermove_00.png::CompressedTexture2D::7239660349574557826::1680254936::1731605321::1::::<><>::
+laddermove_01.png::CompressedTexture2D::3882558342262422871::1680254936::1731605321::1::::<><>::
+laddermove_02.png::CompressedTexture2D::1841651530954741452::1680254936::1731605321::1::::<><>::
+laddermove_03.png::CompressedTexture2D::7234492749836754616::1680254936::1731605321::1::::<><>::
+laddermove_04.png::CompressedTexture2D::1966557623976958804::1680254936::1731605321::1::::<><>::
+laddermove_05.png::CompressedTexture2D::7654377773419272645::1680254936::1731605321::1::::<><>::
+laddermove_06.png::CompressedTexture2D::981435969707324112::1680254936::1731605321::1::::<><>::
+laddermove_07.png::CompressedTexture2D::4573936898004441997::1680254936::1731605321::1::::<><>::
+::res://plattformer/player animation/Peppino crawl/::1731605271
+::res://plattformer/player animation/Peppino crawl/Crawl/::1731605271
+crawl_00.png::CompressedTexture2D::2799079252828783272::1680248874::1731605321::1::::<><>::
+crawl_01.png::CompressedTexture2D::7355128373666657482::1680248874::1731605321::1::::<><>::
+crawl_02.png::CompressedTexture2D::8837779811343085080::1680248874::1731605321::1::::<><>::
+crawl_03.png::CompressedTexture2D::6937629721141171001::1680248874::1731605321::1::::<><>::
+crawl_04.png::CompressedTexture2D::8156040012024507799::1680248874::1731605321::1::::<><>::
+crawl_05.png::CompressedTexture2D::5828001234430530662::1680248874::1731605321::1::::<><>::
+crawl_06.png::CompressedTexture2D::5655743001116407834::1680248874::1731605321::1::::<><>::
+crawl_07.png::CompressedTexture2D::7288242169549647162::1680248874::1731605321::1::::<><>::
+crawl_08.png::CompressedTexture2D::1843231306213903657::1680248874::1731605321::1::::<><>::
+crawl_09.png::CompressedTexture2D::1719164606456033260::1680248874::1731605321::1::::<><>::
+crawl_10.png::CompressedTexture2D::8982518312296121492::1680248874::1731605321::1::::<><>::
+crawl_11.png::CompressedTexture2D::7283697048654111927::1680248874::1731605321::1::::<><>::
+crawl_12.png::CompressedTexture2D::3927493631654501913::1680248874::1731605321::1::::<><>::
+crawl_13.png::CompressedTexture2D::1811499410004340841::1680248874::1731605321::1::::<><>::
+crawl_14.png::CompressedTexture2D::6466536609555098115::1680248874::1731605321::1::::<><>::
+crawl_15.png::CompressedTexture2D::2410449988561818947::1680248874::1731605321::1::::<><>::
+::res://plattformer/player animation/Peppino crawl/jumpcrouch/::1731605271
+crouchfall_00.png::CompressedTexture2D::4872005568121826912::1680249012::1731605321::1::::<><>::
+crouchfall_01.png::CompressedTexture2D::5108852937087351013::1680249012::1731605321::1::::<><>::
+crouchfall_02.png::CompressedTexture2D::451729475074054298::1680249012::1731605321::1::::<><>::
+crouchjump_00.png::CompressedTexture2D::1295132434532302072::1680249012::1731605321::1::::<><>::
+crouchjump_01.png::CompressedTexture2D::2632885783254463683::1680249012::1731605321::1::::<><>::
+crouchjump_02.png::CompressedTexture2D::1938154634607391597::1680249012::1731605321::1::::<><>::
+crouchjump_03.png::CompressedTexture2D::5081658170652196712::1680249012::1731605321::1::::<><>::
+crouchjump_04.png::CompressedTexture2D::916872181159536356::1680249012::1731605321::1::::<><>::
+crouchjump_05.png::CompressedTexture2D::5542290496774409517::1680249012::1731605321::1::::<><>::
+crouchjump_06.png::CompressedTexture2D::7895591204493255549::1680249012::1731605321::1::::<><>::
+crouchjump_07.png::CompressedTexture2D::6740743271742241868::1680249012::1731605321::1::::<><>::
+crouchjump_08.png::CompressedTexture2D::124666002736964108::1680249012::1731605321::1::::<><>::
+::res://plattformer/player animation/Peppino dash/::1731605271
+::res://plattformer/player animation/Peppino dash/dashpad/::1731605271
+dashpad_00.png::CompressedTexture2D::250069428796994579::1680255192::1731605321::1::::<><>::
+dashpad_01.png::CompressedTexture2D::3691225189313919749::1680255192::1731605321::1::::<><>::
+dashpad_02.png::CompressedTexture2D::6175758997240826402::1680255192::1731605321::1::::<><>::
+dashpad_03.png::CompressedTexture2D::2705616666455994164::1680255192::1731605321::1::::<><>::
+dashpad_04.png::CompressedTexture2D::9123651200652143444::1680255192::1731605321::1::::<><>::
+dashpad_05.png::CompressedTexture2D::8702938354806663805::1680255192::1731605321::1::::<><>::
+dashpad_06.png::CompressedTexture2D::7801396731493201534::1680255192::1731605321::1::::<><>::
+dashpad_07.png::CompressedTexture2D::4266663382262509157::1680255192::1731605321::1::::<><>::
+dashpad_08.png::CompressedTexture2D::98644537299010027::1680255192::1731605321::1::::<><>::
+::res://plattformer/player animation/Peppino dash/grabdash/::1680255202
+::res://plattformer/player animation/Peppino door/::1731605271
+::res://plattformer/player animation/Peppino door/Peppino enter/::1731605271
+walkfront_00.png::CompressedTexture2D::2501706520915626321::1680248498::1731605321::1::::<><>::
+walkfront_01.png::CompressedTexture2D::7336038074947375556::1680248498::1731605321::1::::<><>::
+walkfront_02.png::CompressedTexture2D::6106903296921427712::1680248498::1731605321::1::::<><>::
+walkfront_03.png::CompressedTexture2D::5556865359932185700::1680248498::1731605320::1::::<><>::
+walkfront_04.png::CompressedTexture2D::3957209039675859867::1680248498::1731605320::1::::<><>::
+walkfront_05.png::CompressedTexture2D::168061531399250829::1680248498::1731605320::1::::<><>::
+walkfront_06.png::CompressedTexture2D::6195215540974086816::1680248500::1731605320::1::::<><>::
+walkfront_07.png::CompressedTexture2D::8918269399423668165::1680248500::1731605320::1::::<><>::
+walkfront_08.png::CompressedTexture2D::3478793902508425078::1680248500::1731605320::1::::<><>::
+walkfront_09.png::CompressedTexture2D::8220688328796053568::1680248500::1731605320::1::::<><>::
+walkfront_10.png::CompressedTexture2D::9211075238031747677::1680248500::1731605320::1::::<><>::
+walkfront_11.png::CompressedTexture2D::5056726464959012965::1680248500::1731605320::1::::<><>::
+walkfront_12.png::CompressedTexture2D::5042791060277632573::1680248500::1731605321::1::::<><>::
+walkfront_13.png::CompressedTexture2D::2012860281515127601::1680248500::1731605321::1::::<><>::
+walkfront_14.png::CompressedTexture2D::7619246913513488521::1680248500::1731605321::1::::<><>::
+walkfront_15.png::CompressedTexture2D::5679057294830317106::1680248500::1731605321::1::::<><>::
+::res://plattformer/player animation/Peppino door/Peppino exit/::1731605271
+entergate_00.png::CompressedTexture2D::7604423749417760084::1680249172::1731605321::1::::<><>::
+entergate_01.png::CompressedTexture2D::5888365680098888684::1680249172::1731605321::1::::<><>::
+entergate_02.png::CompressedTexture2D::734392315773802496::1680249172::1731605321::1::::<><>::
+entergate_03.png::CompressedTexture2D::3617392140244384131::1680249172::1731605321::1::::<><>::
+entergate_04.png::CompressedTexture2D::4933599660672117805::1680249172::1731605321::1::::<><>::
+entergate_05-17.png::CompressedTexture2D::2366632034098485639::1680249172::1731605321::1::::<><>::
+entergate_18.png::CompressedTexture2D::7473964819460157287::1680249172::1731605321::1::::<><>::
+entergate_19.png::CompressedTexture2D::6133991679849728493::1680249172::1731605321::1::::<><>::
+entergate_20.png::CompressedTexture2D::3870712753658906539::1680249172::1731605321::1::::<><>::
+entergate_21.png::CompressedTexture2D::4183497917187969553::1680249172::1731605321::1::::<><>::
+entergate_22.png::CompressedTexture2D::5943715901798451315::1680249172::1731605321::1::::<><>::
+entergate_23_26_29.png::CompressedTexture2D::8398747325768287366::1680249172::1731605321::1::::<><>::
+entergate_24_27_30.png::CompressedTexture2D::4464947788935552507::1680249172::1731605321::1::::<><>::
+entergate_25_28_31.png::CompressedTexture2D::6432705117583961975::1680249172::1731605321::1::::<><>::
+entergate_32.png::CompressedTexture2D::2299670427422671365::1680249172::1731605321::1::::<><>::
+entergate_33.png::CompressedTexture2D::3562176717120327904::1680249172::1731605321::1::::<><>::
+entergate_34.png::CompressedTexture2D::6722259224843487434::1680249172::1731605321::1::::<><>::
+entergate_35.png::CompressedTexture2D::177095075368817237::1680249172::1731605321::1::::<><>::
+entergate_36-44.png::CompressedTexture2D::8074863999445632419::1680249172::1731605321::1::::<><>::
+::res://plattformer/player animation/Peppino idle/::1731605271
+::res://plattformer/player animation/Peppino idle/body idle/::1731605271
+idle2_00.png::CompressedTexture2D::1418405278834466967::1680254824::1731605321::1::::<><>::
+idle2_01.png::CompressedTexture2D::38511554811204596::1680254824::1731605321::1::::<><>::
+idle2_02.png::CompressedTexture2D::1678795799500488168::1680254824::1731605321::1::::<><>::
+idle2_03.png::CompressedTexture2D::6184854757434423700::1680254824::1731605321::1::::<><>::
+idle2_04.png::CompressedTexture2D::3730075412807719215::1680254824::1731605321::1::::<><>::
+idle2_05.png::CompressedTexture2D::1999008725088787446::1680254824::1731605321::1::::<><>::
+idle2_06.png::CompressedTexture2D::8997998400586857922::1680254824::1731605321::1::::<><>::
+idle2_07.png::CompressedTexture2D::8764888375005772380::1680254824::1731605321::1::::<><>::
+idledance_00.png::CompressedTexture2D::8978370090788943744::1680254824::1731605321::1::::<><>::
+idledance_01.png::CompressedTexture2D::6393984724279820639::1680254824::1731605321::1::::<><>::
+idledance_02_10_18_26.png::CompressedTexture2D::605145793966423073::1680254824::1731605321::1::::<><>::
+idledance_03_11_19_27.png::CompressedTexture2D::6793185521261255948::1680254826::1731605321::1::::<><>::
+idledance_04_12_20_28.png::CompressedTexture2D::7070643526081450253::1680254826::1731605321::1::::<><>::
+idledance_05_13_21_29.png::CompressedTexture2D::7718229171925031113::1680254826::1731605322::1::::<><>::
+idledance_06_14_22_30.png::CompressedTexture2D::1685539366417897448::1680254826::1731605322::1::::<><>::
+idledance_07_15_23_31.png::CompressedTexture2D::993718782492034316::1680254826::1731605322::1::::<><>::
+idledance_08_16_24_32.png::CompressedTexture2D::1937523414109010351::1680254826::1731605322::1::::<><>::
+idledance_09_17_25_33.png::CompressedTexture2D::5363883950164273697::1680254826::1731605322::1::::<><>::
+idledance_34.png::CompressedTexture2D::3644604315684659244::1680254826::1731605322::1::::<><>::
+idledance_35.png::CompressedTexture2D::7234242060082965531::1680254826::1731605322::1::::<><>::
+idledance_36.png::CompressedTexture2D::7218326179945142011::1680254826::1731605322::1::::<><>::
+idlefrown_00.png::CompressedTexture2D::5460846478033890050::1680254826::1731605322::1::::<><>::
+idlefrown_01.png::CompressedTexture2D::2371162809392894659::1680254826::1731605322::1::::<><>::
+idlefrown_02.png::CompressedTexture2D::928330996466201067::1680254826::1731605322::1::::<><>::
+idlefrown_03-29.png::CompressedTexture2D::3029972627586563373::1680254826::1731605322::1::::<><>::
+idlefrown_30.png::CompressedTexture2D::2257471133011033051::1680254826::1731605322::1::::<><>::
+idlefrown_31.png::CompressedTexture2D::6445231216173828041::1680254826::1731605322::1::::<><>::
+idlefrown_32.png::CompressedTexture2D::232143131229168574::1680254824::1731605322::1::::<><>::
+idle_00.png::CompressedTexture2D::8788075916485703203::1680254824::1731605322::1::::<><>::
+idle_01.png::CompressedTexture2D::1721251465775204575::1680254824::1731605321::1::::<><>::
+idle_02.png::CompressedTexture2D::2147825465113600899::1680254824::1731605321::1::::<><>::
+idle_03.png::CompressedTexture2D::1709113604781191725::1680254824::1731605321::1::::<><>::
+idle_04.png::CompressedTexture2D::3049688664298425263::1680254824::1731605321::1::::<><>::
+idle_05-08.png::CompressedTexture2D::5190574362314353669::1680254824::1731605321::1::::<><>::
+idle_09.png::CompressedTexture2D::3017272908201614996::1680254824::1731605321::1::::<><>::
+idle_10.png::CompressedTexture2D::4805427462109161867::1680254824::1731605321::1::::<><>::
+idle_11.png::CompressedTexture2D::6869753390430264548::1680254824::1731605321::1::::<><>::
+idle_12.png::CompressedTexture2D::1806961677434262812::1680254824::1731605321::1::::<><>::
+idle_13.png::CompressedTexture2D::5842011307067495962::1680254824::1731605321::1::::<><>::
+idle_14.png::CompressedTexture2D::5989584579406363577::1680254824::1731605321::1::::<><>::
+idle_15.png::CompressedTexture2D::8536973479547445909::1680254824::1731605321::1::::<><>::
+idle_16-17.png::CompressedTexture2D::4290423575207290294::1680254824::1731605321::1::::<><>::
+idle_18.png::CompressedTexture2D::8307332514089289396::1680254824::1731605321::1::::<><>::
+idle_19.png::CompressedTexture2D::2964359387647472529::1680254824::1731605321::1::::<><>::
+idle_20.png::CompressedTexture2D::6641318022369120119::1680254824::1731605322::1::::<><>::
+::res://plattformer/player animation/Peppino idle/hand idle/::1731605271
+handgesture1_00.png::CompressedTexture2D::2663606956669370419::1680255296::1731605322::1::::<><>::
+handgesture1_01.png::CompressedTexture2D::6478173681713567821::1680255296::1731605322::1::::<><>::
+handgesture1_02.png::CompressedTexture2D::10156530562427071::1680255296::1731605322::1::::<><>::
+handgesture1_03-04.png::CompressedTexture2D::1295404221183653965::1680255296::1731605322::1::::<><>::
+handgesture1_05.png::CompressedTexture2D::3036221298014673557::1680255296::1731605322::1::::<><>::
+handgesture1_06.png::CompressedTexture2D::3495966987154258184::1680255296::1731605322::1::::<><>::
+handgesture1_07.png::CompressedTexture2D::8199536641154786276::1680255296::1731605322::1::::<><>::
+handgesture1_08.png::CompressedTexture2D::4733555087939788932::1680255296::1731605322::1::::<><>::
+handgesture1_09-10.png::CompressedTexture2D::5470651469218151706::1680255296::1731605322::1::::<><>::
+handgesture1_11.png::CompressedTexture2D::2738512382014269621::1680255296::1731605322::1::::<><>::
+handgesture1_12-13.png::CompressedTexture2D::6530218995385449383::1680255296::1731605322::1::::<><>::
+handgesture1_14.png::CompressedTexture2D::386003046219253614::1680255296::1731605322::1::::<><>::
+handgesture1_15-16.png::CompressedTexture2D::1880626547216180737::1680255296::1731605322::1::::<><>::
+handgesture1_17.png::CompressedTexture2D::7717541057787377765::1680255296::1731605322::1::::<><>::
+handgesture1_18-19.png::CompressedTexture2D::3593200431140095412::1680255296::1731605322::1::::<><>::
+handgesture1_20.png::CompressedTexture2D::4057201537756558432::1680255296::1731605322::1::::<><>::
+handgesture1_21-22.png::CompressedTexture2D::215521723435789797::1680255296::1731605322::1::::<><>::
+handgesture1_23.png::CompressedTexture2D::8173974559569771284::1680255296::1731605322::1::::<><>::
+handgesture1_24.png::CompressedTexture2D::2135780631584611140::1680255296::1731605322::1::::<><>::
+handgesture1_25.png::CompressedTexture2D::1774311412535557579::1680255296::1731605322::1::::<><>::
+handgesture2_00.png::CompressedTexture2D::4817352474349433183::1680255296::1731605322::1::::<><>::
+handgesture2_01.png::CompressedTexture2D::3094964853061367211::1680255296::1731605322::1::::<><>::
+handgesture2_02.png::CompressedTexture2D::661080066749244263::1680255296::1731605322::1::::<><>::
+handgesture2_03-05.png::CompressedTexture2D::5824793915281838312::1680255296::1731605322::1::::<><>::
+handgesture2_06.png::CompressedTexture2D::7078856199598011851::1680255296::1731605322::1::::<><>::
+handgesture2_07.png::CompressedTexture2D::6550506351727134662::1680255296::1731605322::1::::<><>::
+handgesture2_08.png::CompressedTexture2D::6843526035230176374::1680255296::1731605322::1::::<><>::
+handgesture2_09.png::CompressedTexture2D::6701193359749885408::1680255296::1731605322::1::::<><>::
+handgesture2_10.png::CompressedTexture2D::1925203190287648929::1680255296::1731605322::1::::<><>::
+handgesture2_11.png::CompressedTexture2D::6426684002104647166::1680255296::1731605322::1::::<><>::
+handgesture2_12.png::CompressedTexture2D::1376938782093458596::1680255296::1731605321::1::::<><>::
+handgesture2_13.png::CompressedTexture2D::7970003560843916785::1680255296::1731605321::1::::<><>::
+handgesture2_14.png::CompressedTexture2D::8827918366852675379::1680255296::1731605321::1::::<><>::
+handgesture3_00.png::CompressedTexture2D::4383062013874765409::1680255296::1731605321::1::::<><>::
+handgesture3_01.png::CompressedTexture2D::2081383034018443725::1680255296::1731605321::1::::<><>::
+handgesture3_02.png::CompressedTexture2D::2466764776485322126::1680255296::1731605321::1::::<><>::
+handgesture3_03-05.png::CompressedTexture2D::5242710628650647184::1680255296::1731605321::1::::<><>::
+handgesture3_06.png::CompressedTexture2D::5127395091942246250::1680255296::1731605321::1::::<><>::
+handgesture3_07.png::CompressedTexture2D::8491913976979913710::1680255296::1731605321::1::::<><>::
+handgesture3_08.png::CompressedTexture2D::2812465568932703772::1680255296::1731605321::1::::<><>::
+handgesture3_09.png::CompressedTexture2D::1085192955409679588::1680255296::1731605321::1::::<><>::
+handgesture3_10.png::CompressedTexture2D::7108096605830878080::1680255296::1731605321::1::::<><>::
+handgesture3_11-12.png::CompressedTexture2D::6600698425740811499::1680255296::1731605321::1::::<><>::
+handgesture3_13.png::CompressedTexture2D::7301749293924677987::1680255296::1731605321::1::::<><>::
+handgesture3_14.png::CompressedTexture2D::3172414163433194148::1680255296::1731605321::1::::<><>::
+handgesture3_15.png::CompressedTexture2D::5515524905358412055::1680255296::1731605321::1::::<><>::
+handgesture3_16.png::CompressedTexture2D::2258521258836996308::1680255296::1731605321::1::::<><>::
+handgesture3_17.png::CompressedTexture2D::3924322370694456441::1680255296::1731605321::1::::<><>::
+handgesture3_18.png::CompressedTexture2D::6354950776850418953::1680255296::1731605321::1::::<><>::
+handgesture3_19.png::CompressedTexture2D::5498178892190689616::1680255296::1731605321::1::::<><>::
+handgesture3_20.png::CompressedTexture2D::4464501284815376247::1680255296::1731605321::1::::<><>::
+handgesture3_21.png::CompressedTexture2D::3475866148182697643::1680255296::1731605321::1::::<><>::
+handgesture3_22.png::CompressedTexture2D::8035885793786336882::1680255296::1731605321::1::::<><>::
+handgesture4_00.png::CompressedTexture2D::8435786007069720826::1680255296::1731605321::1::::<><>::
+handgesture4_01.png::CompressedTexture2D::2273375908211334270::1680255296::1731605321::1::::<><>::
+handgesture4_02.png::CompressedTexture2D::4101588656541490294::1680255296::1731605321::1::::<><>::
+handgesture4_03-12.png::CompressedTexture2D::5863820082327540208::1680255296::1731605321::1::::<><>::
+handgesture4_13.png::CompressedTexture2D::6431521905984705934::1680255296::1731605321::1::::<><>::
+handgesture4_14.png::CompressedTexture2D::5312293406274121142::1680255296::1731605321::1::::<><>::
+handgesture4_15.png::CompressedTexture2D::8168445301923118866::1680255296::1731605321::1::::<><>::
+::res://plattformer/player animation/Peppino jump/::1731605271
+jump_00.png::CompressedTexture2D::7277009468863669339::1680254888::1731605321::1::::<><>::
+jump_01.png::CompressedTexture2D::2287153772744537371::1680254888::1731605321::1::::<><>::
+jump_02.png::CompressedTexture2D::2419342228775744571::1680254888::1731605321::1::::<><>::
+jump_03.png::CompressedTexture2D::509259692527942571::1680254888::1731605321::1::::<><>::
+jump_04.png::CompressedTexture2D::4006758600644653534::1680254888::1731605321::1::::<><>::
+jump_05.png::CompressedTexture2D::5115923169542839048::1680254888::1731605321::1::::<><>::
+jump_06.png::CompressedTexture2D::677390021081829455::1680254888::1731605321::1::::<><>::
+jump_07.png::CompressedTexture2D::4975776359579658296::1680254888::1731605321::1::::<><>::
+jump_08.png::CompressedTexture2D::8510631340529585594::1680254888::1731605321::1::::<><>::
+jump_09.png::CompressedTexture2D::3748649772927078006::1680254888::1731605321::1::::<><>::
+jump_10.png::CompressedTexture2D::6422751946534497111::1680254888::1731605321::1::::<><>::
+jump_11.png::CompressedTexture2D::5816803794236843532::1680254888::1731605321::1::::<><>::
+::res://plattformer/player animation/Peppino walk/::1731605271
+move_00.png::CompressedTexture2D::7991754493381103464::1680254990::1731605321::1::::<><>::
+move_01.png::CompressedTexture2D::5927751818794428194::1680254990::1731605321::1::::<><>::
+move_02.png::CompressedTexture2D::1071884728088585025::1680254990::1731605321::1::::<><>::
+move_03.png::CompressedTexture2D::6905284510763287110::1680254990::1731605321::1::::<><>::
+move_04.png::CompressedTexture2D::9202400363966684980::1680254990::1731605321::1::::<><>::
+move_05.png::CompressedTexture2D::1719025533769303251::1680254990::1731605321::1::::<><>::
+move_06.png::CompressedTexture2D::1829995555573911500::1680254990::1731605321::1::::<><>::
+move_07.png::CompressedTexture2D::6838101420461658577::1680254990::1731605321::1::::<><>::
+move_08.png::CompressedTexture2D::7746938004974040197::1680254990::1731605321::1::::<><>::
+move_09.png::CompressedTexture2D::480026950035438812::1680254990::1731605321::1::::<><>::
+move_10.png::CompressedTexture2D::7653143300945126544::1680254990::1731605321::1::::<><>::
+move_11.png::CompressedTexture2D::444882567842573798::1680254990::1731605321::1::::<><>::
+::res://plattformer/player animation/Transistions/::1731605271
+::res://plattformer/player animation/Transistions/Crouch/::1731605271
+crouch_00-40.png::CompressedTexture2D::5437919702320917002::1680249012::1731605321::1::::<><>::
+crouch_41.png::CompressedTexture2D::9185566193249501437::1680249012::1731605321::1::::<><>::
+crouch_42.png::CompressedTexture2D::6285337986402972286::1680249012::1731605321::1::::<><>::
+crouch_43.png::CompressedTexture2D::4006818896786945645::1680249012::1731605321::1::::<><>::
+::res://plattformer/tilemap/::1731605271
+::res://plattformer/tilemap/Nature Platformer/::1731605271
+::res://plattformer/tilemap/Nature Platformer/Nature Platformer/::1731605271
+RottingPixels.txt::TextFile::-1::1679660144::0::1::::<><>::
+screenshot-1.png::CompressedTexture2D::4892694408543920827::1679660144::1731605321::1::::<><>::
+screenshot-2.png::CompressedTexture2D::5058346384916618655::1679660144::1731605321::1::::<><>::
+tileset-16x16.png::CompressedTexture2D::3534543478678118047::1679660144::1731605321::1::::<><>::
