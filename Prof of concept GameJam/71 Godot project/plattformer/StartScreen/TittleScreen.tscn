@@ -1,0 +1,28 @@
+[gd_scene load_steps=2 format=3 uid="uid://cyneaxlbpp176"]
+
+[ext_resource type="Script" uid="uid://c0xhso7rwjshb" path="res://71 Godot project/plattformer/StartScreen/TittleScreen.gd" id="1_541dp"]
+
+[node name="Startscreen" type="Node2D"]
+script = ExtResource("1_541dp")
+
+[node name="Camera2D2" type="Camera2D" parent="."]
+position = Vector2(576, 319)
+
+[node name="PlayButton" type="Button" parent="."]
+offset_left = 320.0
+offset_top = 320.0
+offset_right = 448.0
+offset_bottom = 384.0
+text = "Play"
+metadata/_edit_use_anchors_ = true
+
+[node name="QuitButton" type="Button" parent="."]
+offset_left = 704.0
+offset_top = 320.0
+offset_right = 832.0
+offset_bottom = 384.0
+text = "Quit"
+metadata/_edit_use_anchors_ = true
+
+[connection signal="pressed" from="PlayButton" to="." method="_on_play_button_pressed"]
+[connection signal="pressed" from="QuitButton" to="." method="_on_quit_button_pressed"]
