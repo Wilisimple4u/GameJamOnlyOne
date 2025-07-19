@@ -1,18 +1,20 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1752930951
-icon.svg::CompressedTexture2D/CompressedTexture2D::4122947302607126900::1679659578::1752840785::1::::<><><>0<>0<>f5cb6297b8b56a130d768f3f240ce66a<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-new_script.gd::GDScript/GDScript::8418230161074627027::1731605327::0::1::::<>CharacterBody2D<><>0<>0<><>::
-node_2d.tscn::PackedScene/PackedScene::3567520825570771331::1752842373::0::1::::<><><>0<>0<><>::
-OldPlayerMove.gd::GDScript/GDScript::553621408420941327::1752842992::0::1::::<>CharacterBody2D<><>0<>0<><>::
-PlatformObjectTemp.tscn::PackedScene::3997716026169360140::1752929919::0::1::::<><><>0<>0<><>::uid://by0glsxyogcme::::res://icon.svg
-PlayerCharScene.tscn::PackedScene::457448079007202443::1752929919::0::1::::<><><>0<>0<><>::uid://cxcmoxmalkqfb::::res://Player_char_Move.gd<>uid://c8op0ccqdbref::::res://71 Godot project/plattformer/PlayerSprite/PlayerTemplate.png
-Player_char_Move.gd::GDScript/GDScript::6392068358186750315::1752865411::0::1::::<>CharacterBody2D<><>0<>0<><>::
-TempLevel.tscn::PackedScene::5614738106896101667::1752929919::0::1::::<><><>0<>0<><>::uid://c8op0ccqdbref::::res://71 Godot project/plattformer/PlayerSprite/PlayerTemplate.png<>uid://grudrdnaxpm6::::res://PlayerCharScene.tscn<>uid://crs1p14el278q::::res://71 Godot project/plattformer/TileMap/TempGroundTile.png<>uid://f7xyha2ihlpa::::res://71 Godot project/plattformer/TileMap/TempTileset.png<>uid://bw7r2frcu4hno::::res://PlatformObjectTemp.tscn
-::res://71 Godot project/::1752842234
-::res://71 Godot project/plattformer/::1752845679
-::res://71 Godot project/plattformer/PlayerAnimation/::1752844370
-::res://71 Godot project/plattformer/PlayerSprite/::1752863902
-PlayerTemplate.png::CompressedTexture2D/CompressedTexture2D::7118930004604571017::1752842110::1752863902::1::::<><><>0<>0<>d472e6f59a55479662ee97a2ff9647ce<>res://.godot/imported/PlayerTemplate.png-b5b695b3368cf9605b554179a36f6aa2.ctex::
-::res://71 Godot project/plattformer/TileMap/::1752863976
-TempGroundTile.png::CompressedTexture2D/CompressedTexture2D::6004817348130302650::1752845682::1752845684::1::::<><><>0<>0<>7dbf26e1469413470ba0c868b01e81ab<>res://.godot/imported/TempGroundTile.png-603c2b57cf522e70adae7663913f1e4d.ctex::
-TempTileset.png::CompressedTexture2D/CompressedTexture2D::418444025108607426::1752863944::1752863976::1::::<><><>0<>0<>1d603b864c75d56c20af74fea6c89549<>res://.godot/imported/TempTileset.png-96722b13678f3c9803f4d9e4e2b9a2c2.ctex::
+::res://::1752935185
+icon.svg::CompressedTexture2D/CompressedTexture2D::4122947302607126900::1752930320::1752930320::1::::<><><>0<>0<>f5cb6297b8b56a130d768f3f240ce66a<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+Main menu.tscn::PackedScene/PackedScene::7255373291217578398::1752935141::0::1::::<><><>0<>0<><>::
+new_script.gd::GDScript/GDScript::8418230161074627027::1752930320::0::1::::<>CharacterBody2D<><>0<>0<><>::
+node_2d.tscn::PackedScene/PackedScene::3567520825570771331::1752930320::0::1::::<><><>0<>0<><>::
+OldPlayerMove.gd::GDScript/GDScript::553621408420941327::1752930320::0::1::::<>CharacterBody2D<><>0<>0<><>::
+PlatformObjectTemp.tscn::PackedScene/PackedScene::3997716026169360140::1752935141::0::1::::<><><>0<>0<><>::uid://by0glsxyogcme::::res://icon.svg
+PlayerCharScene.tscn::PackedScene/PackedScene::457448079007202443::1752935141::0::1::::<><><>0<>0<><>::uid://cxcmoxmalkqfb::::res://Player_char_Move.gd<>uid://c8op0ccqdbref::::res://71 Godot project/plattformer/PlayerSprite/PlayerTemplate.png
+Player_char_Move.gd::GDScript/GDScript::6392068358186750315::1752930320::0::1::::<>CharacterBody2D<><>0<>0<><>::
+sr2492f6ef43d55-2627642727.png::CompressedTexture2D::1837387906816140702::1752935172::1752935186::1::::<><><>0<>0<>4713be5f2602eaccbb734ffed428948d<>res://.godot/imported/sr2492f6ef43d55-2627642727.png-0aede6cbef3e8da5ecf9753ee527ae1d.ctex::
+TempLevel.tscn::PackedScene/PackedScene::5614738106896101667::1752935141::0::1::::<><><>0<>0<><>::uid://c8op0ccqdbref::::res://71 Godot project/plattformer/PlayerSprite/PlayerTemplate.png<>uid://grudrdnaxpm6::::res://PlayerCharScene.tscn<>uid://crs1p14el278q::::res://71 Godot project/plattformer/TileMap/TempGroundTile.png<>uid://f7xyha2ihlpa::::res://71 Godot project/plattformer/TileMap/TempTileset.png<>uid://bw7r2frcu4hno::::res://PlatformObjectTemp.tscn
+::res://71 Godot project/::1752930320
+::res://71 Godot project/plattformer/::1752930320
+::res://71 Godot project/plattformer/PlayerAnimation/::1752930320
+::res://71 Godot project/plattformer/PlayerSprite/::1752930320
+PlayerTemplate.png::CompressedTexture2D/CompressedTexture2D::7118930004604571017::1752930320::1752930320::1::::<><><>0<>0<>d472e6f59a55479662ee97a2ff9647ce<>res://.godot/imported/PlayerTemplate.png-b5b695b3368cf9605b554179a36f6aa2.ctex::
+::res://71 Godot project/plattformer/TileMap/::1752935185
+TempGroundTile.png::CompressedTexture2D/CompressedTexture2D::6004817348130302650::1752930320::1752930320::1::::<><><>0<>0<>7dbf26e1469413470ba0c868b01e81ab<>res://.godot/imported/TempGroundTile.png-603c2b57cf522e70adae7663913f1e4d.ctex::
+TempTileset.png::CompressedTexture2D/CompressedTexture2D::418444025108607426::1752930320::1752930320::1::::<><><>0<>0<>1d603b864c75d56c20af74fea6c89549<>res://.godot/imported/TempTileset.png-96722b13678f3c9803f4d9e4e2b9a2c2.ctex::

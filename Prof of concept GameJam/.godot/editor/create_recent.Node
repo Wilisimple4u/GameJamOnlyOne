@@ -1,3 +1,9 @@
+Label
+MarginContainer
+VBoxContainer
+TextureRect
+Button
+CenterContainer
 CollisionShape2D
 Camera2D
 TileMap
@@ -6,6 +12,3 @@ StaticBody2D
 AnimatedSprite2D
 CharacterBody2D
 RemoteTransform2D
-Node2D
-Label
-Area2D
