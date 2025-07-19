@@ -3,6 +3,4 @@ res://OneStepAtTheTime/GameScenes/TempLevel.tscn
 res://OneStepAtTheTime/ObjectScenes/PlatformObjectTemp.tscn
 res://OneStepAtTheTime/ObjectScenes/PlayerChar.tscn
 res://rockspawner.tscn
-res://rockspawner.gd
 res://rock.tscn
-res://rock.gd
