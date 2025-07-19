@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://crs1p14el278q"
-path="res://.godot/imported/TempGroundTile.png-09835002eadab5615a581f842bafd231.ctex"
+uid="uid://1gbrl87skkyw"
+path="res://.godot/imported/sr2492f6ef43d55-2627642727.png-f035a5ebacc78d148583b7014ad8e74d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://71 Godot project/SpritesAndArts/TileMap/TempGroundTile.png"
-dest_files=["res://.godot/imported/TempGroundTile.png-09835002eadab5615a581f842bafd231.ctex"]
+source_file="res://OneStepAtTheTime/SpritesAndArts/BackgroundArt/sr2492f6ef43d55-2627642727.png"
+dest_files=["res://.godot/imported/sr2492f6ef43d55-2627642727.png-f035a5ebacc78d148583b7014ad8e74d.ctex"]
 
 [params]
 

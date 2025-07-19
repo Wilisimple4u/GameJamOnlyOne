@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://dbms65oofdnu1"]
 
-[ext_resource type="Script" uid="uid://cgc21y2cv5v5h" path="res://71 Godot project/Scripts/TitleScreen.gd" id="1_7jlr6"]
+[ext_resource type="Script" uid="uid://cgc21y2cv5v5h" path="res://OneStepAtTheTime/Scripts/TitleScreen.gd" id="1_7jlr6"]
 
 [node name="Main memu" type="Control"]
 layout_mode = 3

@@ -1,9 +1,9 @@
 [gd_scene load_steps=8 format=4 uid="uid://cl826fie1d4o2"]
 
-[ext_resource type="Texture2D" uid="uid://crs1p14el278q" path="res://71 Godot project/SpritesAndArts/TileMap/TempGroundTile.png" id="1_wa6m3"]
-[ext_resource type="Texture2D" uid="uid://f7xyha2ihlpa" path="res://71 Godot project/SpritesAndArts/TileMap/TempTileset.png" id="2_r7qj1"]
-[ext_resource type="PackedScene" uid="uid://grudrdnaxpm6" path="res://71 Godot project/ObjectScenes/PlayerChar.tscn" id="3_4ghnw"]
-[ext_resource type="PackedScene" uid="uid://bw7r2frcu4hno" path="res://71 Godot project/ObjectScenes/PlatformObjectTemp.tscn" id="4_mblv6"]
+[ext_resource type="Texture2D" uid="uid://crs1p14el278q" path="res://OneStepAtTheTime/SpritesAndArts/TileMap/TempGroundTile.png" id="1_wa6m3"]
+[ext_resource type="Texture2D" uid="uid://f7xyha2ihlpa" path="res://OneStepAtTheTime/SpritesAndArts/TileMap/TempTileset.png" id="2_r7qj1"]
+[ext_resource type="PackedScene" uid="uid://grudrdnaxpm6" path="res://OneStepAtTheTime/ObjectScenes/PlayerChar.tscn" id="3_4ghnw"]
+[ext_resource type="PackedScene" uid="uid://bw7r2frcu4hno" path="res://OneStepAtTheTime/ObjectScenes/PlatformObjectTemp.tscn" id="4_mblv6"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_3xhdl"]
 texture = ExtResource("1_wa6m3")

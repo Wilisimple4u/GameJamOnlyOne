@@ -11,3 +11,4 @@ res://71 Godot project/GameScenes/TempLevel.tscn
 res://71 Godot project/ObjectScenes/PlatformObjectTemp.tscn
 res://71 Godot project/ObjectScenes/PlayerChar.tscn
 res://71 Godot project/Scripts/TitleScreen.gd
+res://OneStepAtTheTime/Scripts/TitleScreen.gd

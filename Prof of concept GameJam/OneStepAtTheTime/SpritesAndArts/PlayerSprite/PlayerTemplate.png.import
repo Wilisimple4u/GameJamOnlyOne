@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://f7xyha2ihlpa"
-path="res://.godot/imported/TempTileset.png-ebc405052562aab6d4173b42830977d0.ctex"
+uid="uid://c8op0ccqdbref"
+path="res://.godot/imported/PlayerTemplate.png-3ca7e8e9d274c6accbfdde45efe25a2d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://71 Godot project/SpritesAndArts/TileMap/TempTileset.png"
-dest_files=["res://.godot/imported/TempTileset.png-ebc405052562aab6d4173b42830977d0.ctex"]
+source_file="res://OneStepAtTheTime/SpritesAndArts/PlayerSprite/PlayerTemplate.png"
+dest_files=["res://.godot/imported/PlayerTemplate.png-3ca7e8e9d274c6accbfdde45efe25a2d.ctex"]
 
 [params]
 

@@ -11,4 +11,4 @@ func _on_quit_start_button_pressed():
 #It get's the change scene to file command changing it to our selected level scene.
 #Currently it is just the TestLevel
 func _on_new_game_button_pressed():
-	get_tree().change_scene_to_file("res://71 Godot project/GameScenes/TempLevel.tscn")
+	get_tree().change_scene_to_file("res://OneStepAtTheTime/GameScenes/TempLevel.tscn")

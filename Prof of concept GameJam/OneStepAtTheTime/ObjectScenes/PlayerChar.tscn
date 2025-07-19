@@ -1,7 +1,7 @@
 [gd_scene load_steps=5 format=3 uid="uid://grudrdnaxpm6"]
 
-[ext_resource type="Script" uid="uid://cxcmoxmalkqfb" path="res://71 Godot project/Scripts/Player_char_Move.gd" id="1_ceten"]
-[ext_resource type="Texture2D" uid="uid://c8op0ccqdbref" path="res://71 Godot project/SpritesAndArts/PlayerSprite/PlayerTemplate.png" id="2_ceten"]
+[ext_resource type="Script" uid="uid://cxcmoxmalkqfb" path="res://OneStepAtTheTime/Scripts/Player_char_Move.gd" id="1_ceten"]
+[ext_resource type="Texture2D" uid="uid://c8op0ccqdbref" path="res://OneStepAtTheTime/SpritesAndArts/PlayerSprite/PlayerTemplate.png" id="2_ceten"]
 
 [sub_resource type="CapsuleShape2D" id="CapsuleShape2D_ceten"]
 radius = 4.0
