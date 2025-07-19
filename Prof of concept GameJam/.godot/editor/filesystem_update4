@@ -1,3 +1,14 @@
 res://Main menu.tscn
-res://PlatformObjectTemp.tscn
+res://71 Godot project/StartScreen/TittleScreen.tscn
+res://node_2d.tscn
 res://PlayerCharScene.tscn
+res://PlatformObjectTemp.tscn
+res://71 Godot project/StartScreen/TittleScreen.gd
+res://Scripts/TittleScreen.gd
+res://Scripts/TitleScreen.gd
+res://TempLevel.tscn
+res://71 Godot project/GameScenes/TempLevel.tscn
+res://71 Godot project/ObjectScenes/PlatformObjectTemp.tscn
+res://71 Godot project/ObjectScenes/PlayerChar.tscn
+res://71 Godot project/Scripts/TitleScreen.gd
+res://OneStepAtTheTime/Scripts/TitleScreen.gd

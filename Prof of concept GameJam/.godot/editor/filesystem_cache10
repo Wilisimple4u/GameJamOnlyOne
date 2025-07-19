@@ -1,23 +1,24 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1752937459
-icon.svg::CompressedTexture2D/CompressedTexture2D::4122947302607126900::1752930320::1752930320::1::::<><><>0<>0<>f5cb6297b8b56a130d768f3f240ce66a<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-Main menu.tscn::PackedScene::7255373291217578398::1752937266::0::1::::<><><>0<>0<><>::
-new_script.gd::GDScript::8418230161074627027::1752930320::0::1::::<>CharacterBody2D<><>0<>0<><>::
-node_2d.tscn::PackedScene::3567520825570771331::1752930320::0::1::::<><><>0<>0<><>::
-OldPlayerMove.gd::GDScript::553621408420941327::1752930320::0::1::::<>CharacterBody2D<><>0<>0<><>::
-PlatformObjectTemp.tscn::PackedScene::3997716026169360140::1752937254::0::1::::<><><>0<>0<><>::uid://by0glsxyogcme::::res://icon.svg
-PlayerCharScene.tscn::PackedScene::457448079007202443::1752937254::0::1::::<><><>0<>0<><>::uid://cxcmoxmalkqfb::::res://Player_char_Move.gd<>uid://c8op0ccqdbref::::res://71 Godot project/plattformer/PlayerSprite/PlayerTemplate.png
-Player_char_Move.gd::GDScript::6392068358186750315::1752930320::0::1::::<>CharacterBody2D<><>0<>0<><>::
-sr2492f6ef43d55-2627642727.png::CompressedTexture2D/CompressedTexture2D::1837387906816140702::1752935172::1752935186::1::::<><><>0<>0<>4713be5f2602eaccbb734ffed428948d<>res://.godot/imported/sr2492f6ef43d55-2627642727.png-0aede6cbef3e8da5ecf9753ee527ae1d.ctex::
-TempLevel.tscn::PackedScene::5614738106896101667::1752937254::0::1::::<><><>0<>0<><>::uid://c8op0ccqdbref::::res://71 Godot project/plattformer/PlayerSprite/PlayerTemplate.png<>uid://grudrdnaxpm6::::res://PlayerCharScene.tscn<>uid://crs1p14el278q::::res://71 Godot project/plattformer/TileMap/TempGroundTile.png<>uid://f7xyha2ihlpa::::res://71 Godot project/plattformer/TileMap/TempTileset.png<>uid://bw7r2frcu4hno::::res://PlatformObjectTemp.tscn
-::res://71 Godot project/::1752930320
-::res://71 Godot project/plattformer/::1752937314
-::res://71 Godot project/plattformer/PlayerAnimation/::1752930320
-::res://71 Godot project/plattformer/PlayerSprite/::1752930320
-PlayerTemplate.png::CompressedTexture2D/CompressedTexture2D::7118930004604571017::1752930320::1752930320::1::::<><><>0<>0<>d472e6f59a55479662ee97a2ff9647ce<>res://.godot/imported/PlayerTemplate.png-b5b695b3368cf9605b554179a36f6aa2.ctex::
-::res://71 Godot project/plattformer/StartScreen/::1752937314
-TittleScreen.gd::GDScript::6575501095482859647::1752937314::0::1::::<>Node2D<><>0<>0<><>::
-TittleScreen.tscn::PackedScene::6484454618568825359::1752937314::0::1::::<><><>0<>0<><>::uid://c0xhso7rwjshb::::res://71 Godot project/plattformer/StartScreen/TittleScreen.gd
-::res://71 Godot project/plattformer/TileMap/::1752935185
-TempGroundTile.png::CompressedTexture2D/CompressedTexture2D::6004817348130302650::1752930320::1752930320::1::::<><><>0<>0<>7dbf26e1469413470ba0c868b01e81ab<>res://.godot/imported/TempGroundTile.png-603c2b57cf522e70adae7663913f1e4d.ctex::
-TempTileset.png::CompressedTexture2D/CompressedTexture2D::418444025108607426::1752930320::1752930320::1::::<><><>0<>0<>1d603b864c75d56c20af74fea6c89549<>res://.godot/imported/TempTileset.png-96722b13678f3c9803f4d9e4e2b9a2c2.ctex::
+::res://::1752941497
+icon.svg::CompressedTexture2D/CompressedTexture2D::4122947302607126900::1679659578::1752840785::1::::<><><>0<>0<>f5cb6297b8b56a130d768f3f240ce66a<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+Main menu.tscn::PackedScene::7255373291217578398::1752941497::0::1::::<><><>0<>0<><>::uid://cgc21y2cv5v5h::::res://OneStepAtTheTime/Scripts/TitleScreen.gd
+::res://OneStepAtTheTime/::1752939938
+::res://OneStepAtTheTime/GameScenes/::1752941497
+TempLevel.tscn::PackedScene::5614738106896101667::1752941497::0::1::::<><><>0<>0<><>::uid://crs1p14el278q::::res://OneStepAtTheTime/SpritesAndArts/TileMap/TempGroundTile.png<>uid://f7xyha2ihlpa::::res://OneStepAtTheTime/SpritesAndArts/TileMap/TempTileset.png<>uid://grudrdnaxpm6::::res://OneStepAtTheTime/ObjectScenes/PlayerChar.tscn<>uid://bw7r2frcu4hno::::res://OneStepAtTheTime/ObjectScenes/PlatformObjectTemp.tscn
+::res://OneStepAtTheTime/ObjectScenes/::1752941497
+PlatformObjectTemp.tscn::PackedScene::3997716026169360140::1752941329::0::1::::<><><>0<>0<><>::uid://by0glsxyogcme::::res://icon.svg
+PlayerChar.tscn::PackedScene::457448079007202443::1752941497::0::1::::<><><>0<>0<><>::uid://cxcmoxmalkqfb::::res://OneStepAtTheTime/Scripts/Player_char_Move.gd<>uid://c8op0ccqdbref::::res://OneStepAtTheTime/SpritesAndArts/PlayerSprite/PlayerTemplate.png
+::res://OneStepAtTheTime/Scripts/::1752941326
+new_script.gd::GDScript::8418230161074627027::1731605327::0::1::::<>CharacterBody2D<><>0<>0<><>::
+OldPlayerMove.gd::GDScript::553621408420941327::1752842992::0::1::::<>CharacterBody2D<><>0<>0<><>::
+Player_char_Move.gd::GDScript::6392068358186750315::1752865411::0::1::::<>CharacterBody2D<><>0<>0<><>::
+TitleScreen.gd::GDScript::5199790276558998807::1752941326::0::1::::<>Control<><>0<>0<><>::
+::res://OneStepAtTheTime/SpritesAndArts/::1752939940
+::res://OneStepAtTheTime/SpritesAndArts/BackgroundArt/::1752939955
+sr2492f6ef43d55-2627642727.png::CompressedTexture2D::1837387906816140702::1752937445::1752941498::1::::<><><>0<>0<>4fc2cb6b4a8208a61173937faed4b59a<>res://.godot/imported/sr2492f6ef43d55-2627642727.png-f035a5ebacc78d148583b7014ad8e74d.ctex::
+::res://OneStepAtTheTime/SpritesAndArts/PlayerAnimation/::1752844370
+::res://OneStepAtTheTime/SpritesAndArts/PlayerSprite/::1752937634
+PlayerTemplate.png::CompressedTexture2D::7118930004604571017::1752842110::1752941497::1::::<><><>0<>0<>da0c74d9147fd68f34427884ba8d4306<>res://.godot/imported/PlayerTemplate.png-3ca7e8e9d274c6accbfdde45efe25a2d.ctex::
+::res://OneStepAtTheTime/SpritesAndArts/TileMap/::1752937634
+TempGroundTile.png::CompressedTexture2D::6004817348130302650::1752845682::1752941497::1::::<><><>0<>0<>733dc7df6ace846013d71e6e19667cd8<>res://.godot/imported/TempGroundTile.png-e0f8c092e04297912bbdce7d5b0a24d2.ctex::
+TempTileset.png::CompressedTexture2D::418444025108607426::1752863944::1752941497::1::::<><><>0<>0<>f03183d096f36f95fec9abb4d4f0f4ea<>res://.godot/imported/TempTileset.png-77b6103f2ab6df9f5e3b331a15407a8a.ctex::
