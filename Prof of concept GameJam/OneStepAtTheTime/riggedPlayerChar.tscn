@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://b3vg4fj6y13ib"]
+
+[ext_resource type="PackedScene" uid="uid://grudrdnaxpm6" path="res://OneStepAtTheTime/ObjectScenes/PlayerChar.tscn" id="2_765fv"]
+
+[node name="RiggedPlayerChar" type="Node2D"]
+
+[node name="TempPlayerChar" parent="." instance=ExtResource("2_765fv")]
+position = Vector2(0, -12)

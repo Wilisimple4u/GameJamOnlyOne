@@ -1,11 +1,17 @@
-res://OneStepAtTheTime/ObjectScenes/rockspawner.tscn
 res://OneStepAtTheTime/ObjectScenes/rock.tscn
-res://RockScript.gd
 res://Main menu.tscn
 res://OneStepAtTheTime/ObjectScenes/PlayerPlatform.tscn
 res://OneStepAtTheTime/ObjectScenes/PlayerChar.tscn
 res://OneStepAtTheTime/ObjectScenes/PlatformObjectTemp.tscn
-res://OneStepAtTheTime/Scripts/TitleScreen.gd
+res://OneStepAtTheTime/ObjectScenes/rockspawner.tscn
 res://OneStepAtTheTime/GameScenes/TempLevel.tscn
-res://rockspawner.gd
-res://OneStepAtTheTime/ObjectScenes/rockspawner.gd
+res://OneStepAtTheTime/Scripts/RockScript.gd
+res://OneStepAtTheTime/ObjectScenes/rockSpawner.tscn
+res://OneStepAtTheTime/ObjectScenes/playerPlatform.tscn
+res://PlayerPlatform.gd
+res://OneStepAtTheTime/ObjectScenes/riggedPlayerChar.tscn
+res://OneStepAtTheTime/Scripts/Platform_spawner.gd
+res://OneStepAtTheTime/ObjectScenes/playerChar.tscn
+res://OneStepAtTheTime/ObjectScenes/platformObjectTemp.tscn
+res://OneStepAtTheTime/riggedPlayerChar.tscn
+res://OneStepAtTheTime/Scripts/Player_char_Move.gd
