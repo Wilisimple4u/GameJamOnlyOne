@@ -1,9 +1,10 @@
-[gd_scene load_steps=9 format=4 uid="uid://cl826fie1d4o2"]
+[gd_scene load_steps=10 format=4 uid="uid://cl826fie1d4o2"]
 
+[ext_resource type="Script" uid="uid://cakwd10rtsthb" path="res://OneStepAtTheTime/Scripts/Platform_spawner.gd" id="1_2gcda"]
 [ext_resource type="Texture2D" uid="uid://crs1p14el278q" path="res://OneStepAtTheTime/SpritesAndArts/TileMap/TempGroundTile.png" id="1_wa6m3"]
 [ext_resource type="Texture2D" uid="uid://f7xyha2ihlpa" path="res://OneStepAtTheTime/SpritesAndArts/TileMap/TempTileset.png" id="2_r7qj1"]
+[ext_resource type="PackedScene" uid="uid://grudrdnaxpm6" path="res://OneStepAtTheTime/ObjectScenes/playerChar.tscn" id="4_i2dvm"]
 [ext_resource type="PackedScene" uid="uid://bw7r2frcu4hno" path="res://OneStepAtTheTime/ObjectScenes/platformObjectTemp.tscn" id="4_mblv6"]
-[ext_resource type="PackedScene" uid="uid://b3vg4fj6y13ib" path="res://OneStepAtTheTime/riggedPlayerChar.tscn" id="5_2gcda"]
 [ext_resource type="PackedScene" uid="uid://docjkc5pcob5y" path="res://OneStepAtTheTime/ObjectScenes/rockSpawner.tscn" id="5_i2dvm"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_3xhdl"]
@@ -70,6 +71,7 @@ sources/1 = SubResource("TileSetAtlasSource_3xhdl")
 sources/5 = SubResource("TileSetAtlasSource_glk1d")
 
 [node name="Node2D" type="Node2D"]
+script = ExtResource("1_2gcda")
 
 [node name="TileMap" type="TileMapLayer" parent="."]
 position = Vector2(0, -1)
@@ -79,7 +81,7 @@ tile_set = SubResource("TileSet_3xhdl")
 [node name="Node2D" parent="." instance=ExtResource("4_mblv6")]
 position = Vector2(0, 90)
 
-[node name="Rockspawner" parent="." instance=ExtResource("5_i2dvm")]
-position = Vector2(0, -600)
+[node name="TempPlayerChar" parent="." instance=ExtResource("4_i2dvm")]
 
-[node name="RiggedPlayerChar" parent="." instance=ExtResource("5_2gcda")]
+[node name="Rockspawner" parent="." instance=ExtResource("5_i2dvm")]
+position = Vector2(0, -80)

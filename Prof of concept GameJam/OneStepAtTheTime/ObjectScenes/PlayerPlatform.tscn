@@ -5,10 +5,7 @@
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_lk0xy"]
 size = Vector2(34, 7)
 
-[node name="Node2D" type="RigidBody2D"]
-disable_mode = 1
-gravity_scale = 0.0
-freeze = true
+[node name="PlayerPlatform" type="StaticBody2D"]
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
 position = Vector2(1.07288e-06, -0.5)

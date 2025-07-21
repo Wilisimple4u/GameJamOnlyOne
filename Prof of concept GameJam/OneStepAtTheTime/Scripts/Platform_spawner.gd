@@ -1,19 +1,17 @@
 extends Node2D
 
-
-var Platform = preload("res://OneStepAtTheTime/ObjectScenes/playerPlatform.tscn")
-
-func _physics_process(delta):
-	if Input.is_action_just_pressed("ui_accept"):
-		placePlatform()
-
-func placePlatform():
-	var PP = Platform.instantiate()
-	get_parent().add.child(PP)
+const PlayPlatfrom = preload("res://OneStepAtTheTime/ObjectScenes/playerPlatform.tscn")
 
 
+func _physics_process(_delta):
+	if Input.is_action_just_pressed("ui_down"):
+		spawnplatform()
+		print("platform placed")
 
 
+func spawnplatform():
+	var new_Platform = PlayPlatfrom.instantiate()
+	add_child(new_Platform)
 
 
 #Storage

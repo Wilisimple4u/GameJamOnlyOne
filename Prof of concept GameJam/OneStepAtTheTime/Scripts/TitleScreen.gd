@@ -1,5 +1,6 @@
 extends Control
 
+const TestLevel = preload("res://OneStepAtTheTime/GameScenes/TempLevel.tscn")
 
 #Listens and awaits an action from the start menu.
 #When the quit button on the start menu is pressed it get's the quit command, closing the game Obviously.
