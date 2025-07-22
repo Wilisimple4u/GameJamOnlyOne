@@ -1,7 +1,10 @@
-res://Main menu.tscn
 res://OneStepAtTheTime/GameScenes/TempLevel.tscn
+res://OneStepAtTheTime/Scripts/Player_char_Move.gd
+res://Main menu.tscn
 res://OneStepAtTheTime/ObjectScenes/playerChar.tscn
 res://OneStepAtTheTime/ObjectScenes/platformObjectTemp.tscn
 res://OneStepAtTheTime/ObjectScenes/rockSpawner.tscn
 res://OneStepAtTheTime/ObjectScenes/rock.tscn
 res://OneStepAtTheTime/ObjectScenes/playerPlatform.tscn
+res://OneStepAtTheTime/Scripts/Platform_spawner.gd
+res://OneStepAtTheTime/ObjectScenes/rock.gd

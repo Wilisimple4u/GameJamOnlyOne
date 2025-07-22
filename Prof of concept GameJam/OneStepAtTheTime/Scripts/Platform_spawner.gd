@@ -4,7 +4,7 @@ const PlayPlatfrom = preload("res://OneStepAtTheTime/ObjectScenes/playerPlatform
 
 
 func _physics_process(_delta):
-	if Input.is_action_just_pressed("mouse_click"):
+	if Input.is_action_just_pressed("Mouse_LeftClick"):
 		spawnplatform()
 		print("platform placed")
 
