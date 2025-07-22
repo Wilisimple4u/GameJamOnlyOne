@@ -1,16 +1,26 @@
-[gd_scene load_steps=3 format=3 uid="uid://dh24kngk0bppg"]
+[gd_scene load_steps=5 format=3 uid="uid://dh24kngk0bppg"]
 
+[ext_resource type="Script" uid="uid://beua6yhfyb0tt" path="res://OneStepAtTheTime/ObjectScenes/rock.gd" id="1_qe3pu"]
 [ext_resource type="Texture2D" uid="uid://by0glsxyogcme" path="res://icon.svg" id="2_68h2w"]
 
-[sub_resource type="CircleShape2D" id="CircleShape2D_68h2w"]
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_qe3pu"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_qe3pu"]
 radius = 8.0
 
 [node name="Rock" type="RigidBody2D"]
-collision_layer = 2
+mass = 20.0
+physics_material_override = SubResource("PhysicsMaterial_qe3pu")
+gravity_scale = 0.2
+script = ExtResource("1_qe3pu")
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
 scale = Vector2(0.1, 0.1)
 texture = ExtResource("2_68h2w")
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
-shape = SubResource("CircleShape2D_68h2w")
+[node name="Area2D" type="Area2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D"]
+shape = SubResource("CircleShape2D_qe3pu")
+
+[connection signal="body_entered" from="Area2D" to="." method="_on_area_2d_body_entered"]
