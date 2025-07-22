@@ -1,9 +1,26 @@
-extends StaticBody2D
+extends Node2D
 
-#Ready's the player platform for use and referance inside the script.
-@onready var PlacePlatform = preload("res://OneStepAtTheTime/ObjectScenes/PlayerPlatform.tscn")
+const PlayPlatfrom = preload("res://OneStepAtTheTime/ObjectScenes/playerPlatform.tscn")
 
-func process():
+
+func _physics_process(_delta):
 	if Input.is_action_just_pressed("ui_down"):
-		var PlatformPlaced = PlacePlatform.instantiate()
-		add_child(PlatformPlaced)
+		spawnplatform()
+		print("platform placed")
+
+
+func spawnplatform():
+	var new_Platform = PlayPlatfrom.instantiate()
+	add_child(new_Platform)
+
+
+#Storage
+#@onready var RiggedPlayerCharacter = get_tree().get_root().get_node("RiggedPlayerCharacter")
+#@onready var PlayerPlatform = load("res://OneStepAtTheTime/ObjectScenes/playerPlatform.tscn")
+
+#func _ready():
+	#placePlatform()
+
+
+#func placePlatform():
+	#var placedplatform = PlayerPlatform.instantiate()
