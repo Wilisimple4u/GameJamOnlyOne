@@ -14,3 +14,8 @@ func _physics_process(_delta):
 		var rock = rock_scene.instantiate()
 		add_child(rock)
 		rock.position = Vector2(randi_range(-spawn_area_x, spawn_area_x), -spawn_area_y)
+
+
+#TODO: The Rocks will randomly be spawned over empty space falling into a void of nothing. 
+#Eventually there will be so many falling out of that map that it can no longer spawn any new rocks. 
+#Solution: Add a long kill box to the bottom of the level project to remove them or Make the rocks automatically die once they have existed for X amount of time.
