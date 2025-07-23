@@ -2,13 +2,10 @@ extends Node2D
 
 const PlayPlatfrom = preload("res://OneStepAtTheTime/ObjectScenes/playerPlatform.tscn")
 
-
 func _physics_process(_delta):
-	if Input.is_action_just_pressed("Mouse_LeftClick"):
+	if Input.is_action_just_released("Mouse_LeftClick"):
 		spawnplatform()
 		print("platform placed")
-	
-
 
 func spawnplatform():
 	var new_Platform = PlayPlatfrom.instantiate()

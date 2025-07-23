@@ -15,6 +15,11 @@ run/main_scene="uid://dbms65oofdnu1"
 config/features=PackedStringArray("4.4", "Forward Plus")
 config/icon="res://icon.svg"
 
+[autoload]
+
+Camera="res://OneStepAtTheTime/Scripts/camera.gd"
+PlayerCharMove="res://OneStepAtTheTime/Scripts/Player_char_Move.gd"
+
 [display]
 
 window/stretch/scale=2.0

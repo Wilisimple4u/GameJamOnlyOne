@@ -6,7 +6,7 @@ var rocks_limit = 1000
 
 func _ready():
 	spawn_area_x = get_viewport().size.x
-	spawn_area_y = get_viewport().size.y
+	spawn_area_y = get_viewport().size.y - 100
 
 func _physics_process(_delta):
 	var rocks_in_game = get_child_count()

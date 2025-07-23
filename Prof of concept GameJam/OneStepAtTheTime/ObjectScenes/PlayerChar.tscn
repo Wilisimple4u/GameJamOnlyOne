@@ -30,4 +30,5 @@ position = Vector2(0, -2)
 sprite_frames = SubResource("SpriteFrames_4sakj")
 animation = &"TempIdle"
 
-[node name="Camera2D" type="Camera2D" parent="."]
+[node name="VisibleOnScreenNotifier2D" type="VisibleOnScreenNotifier2D" parent="AnimatedSprite2D"]
+scale = Vector2(0.5, 0.8)
