@@ -7,11 +7,14 @@ func _physics_process(_delta):
 	if Input.is_action_just_pressed("Mouse_LeftClick"):
 		spawnplatform()
 		print("platform placed")
+	
 
 
 func spawnplatform():
 	var new_Platform = PlayPlatfrom.instantiate()
 	add_child(new_Platform)
+	new_Platform.position = get_global_mouse_position() 
+
 
 
 #Storage
