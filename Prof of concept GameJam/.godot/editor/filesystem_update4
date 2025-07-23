@@ -5,3 +5,4 @@ res://OneStepAtTheTime/ObjectScenes/platformObjectTemp.tscn
 res://OneStepAtTheTime/ObjectScenes/rockSpawner.tscn
 res://OneStepAtTheTime/ObjectScenes/rock.tscn
 res://OneStepAtTheTime/ObjectScenes/playerPlatform.tscn
+res://OneStepAtTheTime/Scripts/Platform_spawner.gd

@@ -1,4 +1,4 @@
-[gd_scene load_steps=10 format=4 uid="uid://cl826fie1d4o2"]
+[gd_scene load_steps=11 format=4 uid="uid://cl826fie1d4o2"]
 
 [ext_resource type="Script" uid="uid://cakwd10rtsthb" path="res://OneStepAtTheTime/Scripts/Platform_spawner.gd" id="1_2gcda"]
 [ext_resource type="Texture2D" uid="uid://crs1p14el278q" path="res://OneStepAtTheTime/SpritesAndArts/TileMap/TempGroundTile.png" id="1_wa6m3"]
@@ -6,6 +6,7 @@
 [ext_resource type="PackedScene" uid="uid://grudrdnaxpm6" path="res://OneStepAtTheTime/ObjectScenes/playerChar.tscn" id="4_i2dvm"]
 [ext_resource type="PackedScene" uid="uid://bw7r2frcu4hno" path="res://OneStepAtTheTime/ObjectScenes/platformObjectTemp.tscn" id="4_mblv6"]
 [ext_resource type="PackedScene" uid="uid://docjkc5pcob5y" path="res://OneStepAtTheTime/ObjectScenes/rockSpawner.tscn" id="5_i2dvm"]
+[ext_resource type="PackedScene" uid="uid://d3i476jsfj8mr" path="res://OneStepAtTheTime/ObjectScenes/playerPlatform.tscn" id="7_ncbhi"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_3xhdl"]
 texture = ExtResource("1_wa6m3")
@@ -85,3 +86,5 @@ position = Vector2(0, 90)
 
 [node name="Rockspawner" parent="." instance=ExtResource("5_i2dvm")]
 position = Vector2(0, -80)
+
+[node name="PlayerPlatform" parent="." instance=ExtResource("7_ncbhi")]
