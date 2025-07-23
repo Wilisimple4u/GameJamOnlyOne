@@ -1,5 +1,5 @@
-res://Main menu.tscn
 res://OneStepAtTheTime/GameScenes/TempLevel.tscn
+res://Main menu.tscn
 res://OneStepAtTheTime/ObjectScenes/playerChar.tscn
 res://OneStepAtTheTime/ObjectScenes/platformObjectTemp.tscn
 res://OneStepAtTheTime/ObjectScenes/rockSpawner.tscn
