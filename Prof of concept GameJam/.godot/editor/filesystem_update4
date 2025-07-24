@@ -9,3 +9,4 @@ res://OneStepAtTheTime/Scripts/Player_char_Move.gd
 res://OneStepAtTheTime/ObjectScenes/playerChar.tscn
 res://OneStepAtTheTime/Scripts/Platform_spawner.gd
 res://LevelScript.gd
+res://OneStepAtTheTime/Scripts/PlayerPlatform.gd
