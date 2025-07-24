@@ -1,6 +1,7 @@
 extends CharacterBody2D
 @onready var can_be_seen = get_node("VisibleOnScreenNotifier2D")
 
+
 #Importing and reading the platform to be used.
 #@onready var PlayerPlatform = load("res://OneStepAtTheTime/ObjectScenes/playerPlatform.tscn")
 const SPEED = 150.0
@@ -17,10 +18,14 @@ func _physics_process(delta):
 	# Add the gravity.
 	if not is_on_floor():
 		velocity += get_gravity() * delta
-					
+	
+
 	# Handle jump.
 	if Input.is_action_just_pressed("W_and_Space_Key") and is_on_floor():
 		velocity.y = (JUMP_VELOCITY)	
+		
+	
+
 		
 	#Move camera up with player	and camera difference
 	if Camera.global_position.y > self.global_position.y:
@@ -34,10 +39,6 @@ func _physics_process(delta):
 	elif can_be_seen.is_on_screen():
 		pass
  	
-#Platform Spawing input commandAA
-	#if Input.is_action_just_pressed("ui_down"):
-		#spawnplatform()
-		#print("platform placed")a
 
 	# Get the input direction and handle the movement/deceleration.
 	# As good practice, you should replace UI actions with custom gameplay actions.
@@ -49,8 +50,4 @@ func _physics_process(delta):
 
 	move_and_slide()
 	
-#PlatformSpawning function
-#func spawnplatform():
-	#var RiggedPlayerChar = PlayerPlatform.instantiate()
-	#add_child(RiggedPlayerChar)
-	#RiggedPlayerChar.global_position = RiggedPlayerChar.position
+	
