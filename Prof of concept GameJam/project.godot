@@ -17,8 +17,7 @@ config/icon="res://icon.svg"
 
 [autoload]
 
-Camera="res://OneStepAtTheTime/Scripts/camera.gd"
-PlayerCharMove="res://OneStepAtTheTime/Scripts/Player_char_Move.gd"
+Camera="*res://OneStepAtTheTime/Scripts/camera.gd"
 
 [display]
 

@@ -8,7 +8,6 @@ func _physics_process(_delta):
 		spawnplatform()
 		print("platform placed")
 	
-
 #Checks then deletes the previous playerplatform if it exists then creates a new playerplatform in the level scene.
 func spawnplatform():
 	var new_Platform = PlayPlatfrom.instantiate()
@@ -22,16 +21,12 @@ func spawnplatform():
 	new_Platform.name = "PlayerPlatform"
 	new_Platform.position = get_global_mouse_position()
 	 
-
-
-
 #Storage
 #@onready var RiggedPlayerCharacter = get_tree().get_root().get_node("RiggedPlayerCharacter")
 #@onready var PlayerPlatform = load("res://OneStepAtTheTime/ObjectScenes/playerPlatform.tscn")
 
 #func _ready():
 	#placePlatform()
-
 
 #func placePlatform():
 	#var placedplatform = PlayerPlatform.instantiate()

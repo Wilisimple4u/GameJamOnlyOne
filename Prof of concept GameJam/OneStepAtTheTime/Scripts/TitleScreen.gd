@@ -7,7 +7,6 @@ const TestLevel = preload("res://OneStepAtTheTime/GameScenes/TempLevel.tscn")
 func _on_quit_start_button_pressed():
 	get_tree().quit()
 
-
 #When the NewGameButtong is pressed on the start menu, 
 #It get's the change scene to file command changing it to our selected level scene.
 #Currently it is just the TestLevel
