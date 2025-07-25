@@ -9,7 +9,7 @@ func _ready():
 	lifetime.timeout.connect(lifetime_end)
 
 func lifetime_end():
-	print("Lifetime ended for " , name)
+	#print("Lifetime ended for " , name)
 	queue_free()
 
 func _on_area_2d_body_entered(_body):

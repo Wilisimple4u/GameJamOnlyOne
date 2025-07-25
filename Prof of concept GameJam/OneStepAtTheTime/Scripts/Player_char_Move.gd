@@ -32,12 +32,12 @@ func _physics_process(delta):
 		Camera.global_position.y = self.global_position.y
 		
 	#Reset game if player gooes offscreen and dies	
-	if !can_be_seen.is_on_screen():
-		get_tree().reload_current_scene()
-		Camera.global_position.y = 0
-		#Reload level
-	elif can_be_seen.is_on_screen():
-		pass
+	#if !can_be_seen.is_on_screen():
+	#	get_tree().reload_current_scene()
+	#	Camera.global_position.y = 0
+	#	#Reload level
+	#elif can_be_seen.is_on_screen():
+	#	pass
  	
 
 	# Get the input direction and handle the movement/deceleration.

@@ -1,12 +1,17 @@
 extends StaticBody2D
 
+var PlayerOnPlatform = true
 
 func _on_area_2d_body_entered(body):
 	if body is CharacterBody2D:
-		print("CharacterBody2D entered!")
+		var PlayerOnPlatform = true
+		if PlayerOnPlatform == true:
+			print("True")
 	
 
 
 func _on_area_2d_body_exited(body):
 	if body is CharacterBody2D:
-		print("CharacterBody2D left!")
+		var PlayerOnPlatform = false
+		if PlayerOnPlatform == false:
+			print("False")

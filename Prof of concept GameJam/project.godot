@@ -18,6 +18,8 @@ config/icon="res://icon.svg"
 [autoload]
 
 Camera="*res://OneStepAtTheTime/Scripts/camera.gd"
+PlayerPlatform="*res://OneStepAtTheTime/Scripts/PlayerPlatform.gd"
+PlayerCharMove="res://OneStepAtTheTime/Scripts/Player_char_Move.gd"
 
 [display]
 

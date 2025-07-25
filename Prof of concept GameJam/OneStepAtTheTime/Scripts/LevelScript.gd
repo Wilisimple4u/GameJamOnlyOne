@@ -1,15 +1,20 @@
 extends Node2D
 
 
+
 #Preloads the PlayerPlatform for use withing the script.
 const PlayPlatfrom = preload("res://OneStepAtTheTime/ObjectScenes/playerPlatform.tscn")
 
 
 #If the player presses the left mouse button it runs the spawnplatform function.
 func _physics_process(_delta):
+	print(PlayerPlatform.PlayerOnPlatform)
 	if Input.is_action_just_pressed("Mouse_LeftClick"):
-		spawnplatform()
-		print("platform placed")
+		if  PlayerPlatform.PlayerOnPlatform == false:
+			spawnplatform()
+			print("platform placed")
+		else:
+			print("Unable Place Platform")
 	
 	
 	
