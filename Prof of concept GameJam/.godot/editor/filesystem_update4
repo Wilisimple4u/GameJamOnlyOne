@@ -13,3 +13,5 @@ res://OneStepAtTheTime/ObjectScenes/rock.gd
 res://OneStepAtTheTime/GameScenes/main_world_level.tscn
 res://OneStepAtTheTime/Scripts/TitleScreen.gd
 res://OneStepAtTheTime/Scripts/WorldLevelScript.gd
+res://settings_menu.tscn
+res://OneStepAtTheTime/Scripts/SettingsScript.gd
