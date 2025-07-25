@@ -75,4 +75,6 @@ layout_mode = 2
 text = "Quit"
 
 [connection signal="pressed" from="CenterContainer/VBoxContainer/MarginContainer2/NewGameButton" to="." method="_on_new_game_button_pressed"]
+[connection signal="pressed" from="CenterContainer/VBoxContainer/MarginContainer3/ContinueGameButton" to="." method="_on_continue_game_button_pressed"]
+[connection signal="pressed" from="CenterContainer/VBoxContainer/MarginContainer4/SettingsStartButton" to="." method="_on_settings_start_button_pressed"]
 [connection signal="pressed" from="CenterContainer/VBoxContainer/MarginContainer5/QuitStartButton" to="." method="_on_quit_start_button_pressed"]

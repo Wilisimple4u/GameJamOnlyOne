@@ -1,5 +1,4 @@
-Sprite2D
-Node2D
+Button
 CollisionShape2D
 Area2D
 Label
@@ -7,7 +6,9 @@ Camera2D
 VisibleOnScreenNotifier2D
 VisibleOnScreenEnabler2D
 StaticBody2D
+Node2D
 RigidBody2D
+Sprite2D
+Sprite2D
 TileMapLayer
-Button
 MarginContainer
