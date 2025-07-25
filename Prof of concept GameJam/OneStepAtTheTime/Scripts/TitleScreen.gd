@@ -9,6 +9,10 @@ func _on_quit_start_button_pressed():
 
 #When the NewGameButtong is pressed on the start menu, 
 #It get's the change scene to file command changing it to our selected level scene.
-#Currently it is just the TestLevel
+#Currently it is just the TestLevela
 func _on_new_game_button_pressed():
 	get_tree().change_scene_to_file("res://OneStepAtTheTime/GameScenes/TempLevel.tscn")
+
+
+func _on_continue_game_button_pressed():
+	get_tree().change_scene_to_file("res://OneStepAtTheTime/GameScenes/main_world_level.tscn")

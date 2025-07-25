@@ -1,6 +1,5 @@
 extends Node2D
 
-
 #Preloads the PlayerPlatform for use withing the script.
 const PlayPlatfrom = preload("res://OneStepAtTheTime/ObjectScenes/playerPlatform.tscn")
 
@@ -11,14 +10,15 @@ func _physics_process(_delta):
 		spawnplatform()
 		print("platform placed")
 	pass
-	
+
+
 #Checks then deletes the previous playerplatform if it exists then creates a new playerplatform in the level scene.
 func spawnplatform():
 	var new_Platform = PlayPlatfrom.instantiate()
-	if has_node("/root/Node2D/PlayerPlatform"):
-		get_node("/root/Node2D/PlayerPlatform").queue_free()
-	elif has_node("/root/Node2D/PlayerPlatform2"):
-		get_node("/root/Node2D/PlayerPlatform2").queue_free()
+	if has_node("/root/MainWorldLevel/PlayerPlatform"):
+		get_node("/root/MainWorldLevel/PlayerPlatform").queue_free()
+	elif has_node("/root/MainWorldLevel/PlayerPlatform2"):
+		get_node("/root/MainWorldLevel/PlayerPlatform2").queue_free()
 	else:
 		pass
 	add_child(new_Platform)

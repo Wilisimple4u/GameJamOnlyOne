@@ -1,4 +1,4 @@
-[gd_scene load_steps=12 format=4 uid="uid://cl826fie1d4o2"]
+[gd_scene load_steps=11 format=4 uid="uid://cl826fie1d4o2"]
 
 [ext_resource type="Script" uid="uid://b86vipljg1bc" path="res://OneStepAtTheTime/Scripts/LevelScript.gd" id="1_2gcda"]
 [ext_resource type="Texture2D" uid="uid://crs1p14el278q" path="res://OneStepAtTheTime/SpritesAndArts/TileMap/TempGroundTile.png" id="1_wa6m3"]
@@ -6,7 +6,6 @@
 [ext_resource type="PackedScene" uid="uid://grudrdnaxpm6" path="res://OneStepAtTheTime/ObjectScenes/playerChar.tscn" id="4_i2dvm"]
 [ext_resource type="PackedScene" uid="uid://bw7r2frcu4hno" path="res://OneStepAtTheTime/ObjectScenes/platformObjectTemp.tscn" id="4_mblv6"]
 [ext_resource type="PackedScene" uid="uid://docjkc5pcob5y" path="res://OneStepAtTheTime/ObjectScenes/rockSpawner.tscn" id="5_i2dvm"]
-[ext_resource type="PackedScene" uid="uid://d3i476jsfj8mr" path="res://OneStepAtTheTime/ObjectScenes/playerPlatform.tscn" id="7_ncbhi"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_2gcda"]
 texture = ExtResource("2_r7qj1")
@@ -14,7 +13,7 @@ texture = ExtResource("2_r7qj1")
 0:1/0 = 0
 0:1/0/physics_layer_0/polygon_0/points = PackedVector2Array(-47.7946, -23.8973, 47.7946, -24.2159, 66.5938, -5.09809, 43.0152, 16.5688, 20.3924, 23.8973, -18.7992, 23.8973, -43.3338, 17.5247, -66.2752, -5.41672)
 
-[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_3xhdl"]
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_ncbhi"]
 texture = ExtResource("1_wa6m3")
 0:0/0 = 0
 0:0/0/physics_layer_0/polygon_0/points = PackedVector2Array(-8, -8, 8, -8, 8, 8, -8, 8)
@@ -25,7 +24,7 @@ texture = ExtResource("1_wa6m3")
 1:1/0 = 0
 1:1/0/physics_layer_0/polygon_0/points = PackedVector2Array(-8, -8, 8, -8, 8, 8, -8, 8)
 
-[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_glk1d"]
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_puw3d"]
 texture = ExtResource("2_r7qj1")
 0:1/0 = 0
 0:1/0/physics_layer_0/polygon_0/points = PackedVector2Array(8, -8, 8, 8, -8, 8)
@@ -74,8 +73,8 @@ texture = ExtResource("2_r7qj1")
 
 [sub_resource type="TileSet" id="TileSet_3xhdl"]
 physics_layer_0/collision_layer = 1
-sources/1 = SubResource("TileSetAtlasSource_3xhdl")
-sources/5 = SubResource("TileSetAtlasSource_glk1d")
+sources/1 = SubResource("TileSetAtlasSource_ncbhi")
+sources/5 = SubResource("TileSetAtlasSource_puw3d")
 sources/0 = SubResource("TileSetAtlasSource_2gcda")
 
 [node name="Node2D" type="Node2D"]
@@ -87,11 +86,9 @@ tile_map_data = PackedByteArray("AADU//7/AQAAAAAAAFDT//7/AQAAAAEAAFDU//z/AQAAAAA
 tile_set = SubResource("TileSet_3xhdl")
 
 [node name="Node2D" parent="." instance=ExtResource("4_mblv6")]
-position = Vector2(0, 90)
+position = Vector2(-1, 90)
 
 [node name="Rockspawner" parent="." instance=ExtResource("5_i2dvm")]
 position = Vector2(0, -80)
 
 [node name="TempPlayerChar" parent="." instance=ExtResource("4_i2dvm")]
-
-[node name="PlayerPlatform" parent="." instance=ExtResource("7_ncbhi")]
