@@ -1,7 +1,9 @@
 extends CharacterBody2D
-@onready var can_be_seen = get_node("VisibleOnScreenNotifier2D")
-
-
+@onready var can_be_seen = $VisibleOnScreenNotifier2D
+@onready var hitbox = $CollisionShape2D
+@onready var sprite = $AnimatedSprite2D
+const PlayPlatform = preload("res://OneStepAtTheTime/ObjectScenes/playerPlatform.tscn")
+var platform_limit = 1
 #Importing and reading the platform to be used.
 #@onready var PlayerPlatform = load("res://OneStepAtTheTime/ObjectScenes/playerPlatform.tscn")
 const SPEED = 150.0
@@ -13,7 +15,6 @@ const JUMP_VELOCITY = -300.0
 func _ready() -> void:
 	pass
 		
-	pass
 func _physics_process(delta):	
 	# Add the gravity.
 	if not is_on_floor():
@@ -23,10 +24,7 @@ func _physics_process(delta):
 	# Handle jump.
 	if Input.is_action_just_pressed("W_and_Space_Key") and is_on_floor():
 		velocity.y = (JUMP_VELOCITY)	
-		
-	
-
-		
+			
 	#Move camera up with player	and camera difference
 	if Camera.global_position.y > self.global_position.y:
 		Camera.global_position.y = self.global_position.y
@@ -39,7 +37,6 @@ func _physics_process(delta):
 	#elif can_be_seen.is_on_screen():
 	#	pass
  	
-
 	# Get the input direction and handle the movement/deceleration.
 	# As good practice, you should replace UI actions with custom gameplay actions.
 	var direction := Input.get_axis("A_Key", "D_Key")
@@ -50,4 +47,16 @@ func _physics_process(delta):
 
 	move_and_slide()
 	
+	if Input.is_action_just_pressed("Mouse_LeftClick") and get_tree().current_scene.name == "Node2D":
+		spawnplatform()
+		#print("platform placed")
+#Checks then deletes the previous playerplatform if it exists then creates a new playerplatform in the level scene.
+func spawnplatform():
+	#var path1 = "/root/Node2D/TempPlayerChar/PlayerPlatform"
+	#var path2 = "/root/TempPlayerMove/PlayerPlatform"
+		var new_Platform = PlayPlatform.instantiate()
+		new_Platform.top_level = true
+		self.add_child(new_Platform)
+		new_Platform.name = "PlayerPlatform"
+		new_Platform.position = get_global_mouse_position()
 	
