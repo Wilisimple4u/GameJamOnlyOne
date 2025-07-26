@@ -1,4 +1,7 @@
 Button
+VBoxContainer
+PanelContainer
+Control
 CollisionShape2D
 Area2D
 Label
@@ -9,6 +12,3 @@ StaticBody2D
 Node2D
 RigidBody2D
 Sprite2D
-Sprite2D
-TileMapLayer
-MarginContainer

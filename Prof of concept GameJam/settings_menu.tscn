@@ -3,6 +3,7 @@
 [ext_resource type="Script" uid="uid://cyullalq3rsht" path="res://OneStepAtTheTime/Scripts/SettingsScript.gd" id="1_ufg0w"]
 
 [node name="SettingsMenu" type="Control"]
+process_mode = 3
 layout_mode = 3
 anchors_preset = 0
 script = ExtResource("1_ufg0w")
