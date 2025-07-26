@@ -1,6 +1,6 @@
 [gd_scene load_steps=11 format=4 uid="uid://cl826fie1d4o2"]
 
-[ext_resource type="Script" uid="uid://b86vipljg1bc" path="res://OneStepAtTheTime/Scripts/LevelScript.gd" id="1_2gcda"]
+[ext_resource type="Script" uid="uid://d57bt6fh3lec" path="res://OneStepAtTheTime/Scripts/LevelScript.gd" id="1_2gcda"]
 [ext_resource type="Texture2D" uid="uid://crs1p14el278q" path="res://OneStepAtTheTime/SpritesAndArts/TileMap/TempGroundTile.png" id="1_wa6m3"]
 [ext_resource type="Texture2D" uid="uid://f7xyha2ihlpa" path="res://OneStepAtTheTime/SpritesAndArts/TileMap/TempTileset.png" id="2_r7qj1"]
 [ext_resource type="PackedScene" uid="uid://grudrdnaxpm6" path="res://OneStepAtTheTime/ObjectScenes/playerChar.tscn" id="4_i2dvm"]
