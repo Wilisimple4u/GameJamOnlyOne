@@ -2,7 +2,7 @@ extends Node2D
 
 #Preloads the PlayerPlatform for use withing the script.
 #const PlayPlatfrom = preload("res://OneStepAtTheTime/ObjectScenes/playerPlatform.tscn")
-@onready var gameplay_menu = $PanelContainer
+@onready var gameplay_menu = $CanvasLayer
 
 
 func _ready():
@@ -11,14 +11,10 @@ func _ready():
 func _input(event):
 	if event.is_action_pressed("Pause"):
 		pause_state()
-		print(get_viewport_rect().size / 4)
 
 func _physics_process(_delta):
-	gameplay_menu.global_position = Vector2(get_viewport_rect().size / 4)
+	pass
 	
-
-
-
 func pause_state():
 	if not gameplay_menu.visible:
 		gameplay_menu.show()

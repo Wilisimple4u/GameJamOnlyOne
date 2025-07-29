@@ -13,16 +13,14 @@ func _ready():
 func _input(event):
 	if event.is_action_pressed("Pause"):
 		pause_state()
-
-
+ 
 func pause_state():
 	if not gameplay_menu.visible:
-		gameplay_menu.show()
+		gameplay_menu.show()	
 		get_tree().paused = true
 	else:
 		gameplay_menu.hide()
 		get_tree().paused = false
-
 
 func _on_button_2_pressed():
 	get_tree().change_scene_to_file("res://Main menu.tscn")
