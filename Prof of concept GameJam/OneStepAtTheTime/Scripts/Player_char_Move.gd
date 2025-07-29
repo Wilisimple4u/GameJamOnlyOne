@@ -2,7 +2,7 @@ extends CharacterBody2D
 
 #Importing and reading the platform to be used.
 const PlayPlatform = preload("res://OneStepAtTheTime/ObjectScenes/playerPlatform.tscn")
-
+var Is_Platform = false
 
 const SPEED = 150.0
 const JUMP_VELOCITY = -300.0
@@ -13,6 +13,7 @@ const JUMP_VELOCITY = -300.0
 
 func _ready() -> void:
 	Camera.global_position.y = 0
+	var Is_Platform = false
 		
 func _physics_process(delta):
 	# Add the gravity.
@@ -37,9 +38,12 @@ func _physics_process(delta):
 	move_and_slide()
 
 
-	# "and get_tree().current_scene.name == "Node2D""
+	# Old code to prevent spawn of platforms on main menu, After making it not global it was fixed. Unneeded work around:
+	# 'and get_tree().current_scene.name == "Node2D"'
 	if Input.is_action_just_pressed("Mouse_LeftClick"):
-		spawnplatform()
+		#print(Is_Platform)
+		if is_on_floor() and Is_Platform == false:
+			spawnplatform()
 
 func remove_platform():
 	for node in get_tree().get_nodes_in_group("platforms"):
@@ -57,3 +61,15 @@ func spawnplatform():
 #Reset game and position if player leaves screen	
 func _on_visible_on_screen_notifier_2d_screen_exited():
 	get_tree().reload_current_scene()
+
+
+func _on_area_2d_body_entered(body:):
+	if body.is_in_group("platforms"):
+		Is_Platform = true
+		#print("on platform")
+
+
+func _on_area_2d_body_exited(body:):
+	if body.is_in_group("platforms"):
+		Is_Platform = false
+		#print("off platform")

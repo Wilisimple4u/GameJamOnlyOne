@@ -1,15 +1,10 @@
-res://Main menu.tscn
-res://OneStepAtTheTime/Scripts/camera.gd
-res://settings_menu.tscn
 res://OneStepAtTheTime/GameScenes/main_world_level.tscn
-res://OneStepAtTheTime/GameScenes/TempLevel.tscn
-res://PauseMenu.gd
-res://OneStepAtTheTime/Scripts/PauseMenu.gd
-res://OneStepAtTheTime/Scripts/WorldLevelScript.gd
+res://OneStepAtTheTime/Scripts/camera.gd
 res://OneStepAtTheTime/Scripts/Player_char_Move.gd
+res://Main menu.tscn
+res://settings_menu.tscn
+res://OneStepAtTheTime/GameScenes/TempLevel.tscn
 res://OneStepAtTheTime/ObjectScenes/PlayerChar.tscn
 res://OneStepAtTheTime/ObjectScenes/PlayerPlatform.tscn
 res://OneStepAtTheTime/ObjectScenes/rockSpawner.tscn
 res://OneStepAtTheTime/ObjectScenes/rock.tscn
-res://OneStepAtTheTime/Scripts/LevelScript.gd
-res://OneStepAtTheTime/Scripts/Platform_spawner.gd
