@@ -133,17 +133,16 @@ tile_set = SubResource("TileSet_isimb")
 
 [node name="Rockspawner" parent="." instance=ExtResource("3_55g8e")]
 process_mode = 1
-position = Vector2(267, -162)
+visible = false
+position = Vector2(0, -69)
 
 [node name="TempPlayerChar" parent="." instance=ExtResource("4_wlfbl")]
+process_mode = 1
 position = Vector2(0, 50)
 
 [node name="PanelContainer" type="PanelContainer" parent="."]
-anchors_preset = 15
-anchor_right = 1.0
-anchor_bottom = 1.0
-grow_horizontal = 2
-grow_vertical = 2
+offset_right = 40.0
+offset_bottom = 40.0
 
 [node name="VBoxContainer" type="VBoxContainer" parent="PanelContainer"]
 layout_mode = 2

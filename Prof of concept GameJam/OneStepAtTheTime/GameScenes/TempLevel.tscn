@@ -3,7 +3,7 @@
 [ext_resource type="Script" uid="uid://d57bt6fh3lec" path="res://OneStepAtTheTime/Scripts/LevelScript.gd" id="1_2gcda"]
 [ext_resource type="Texture2D" uid="uid://crs1p14el278q" path="res://OneStepAtTheTime/SpritesAndArts/TileMap/TempGroundTile.png" id="1_wa6m3"]
 [ext_resource type="Texture2D" uid="uid://f7xyha2ihlpa" path="res://OneStepAtTheTime/SpritesAndArts/TileMap/TempTileset.png" id="2_r7qj1"]
-[ext_resource type="PackedScene" uid="uid://grudrdnaxpm6" path="res://OneStepAtTheTime/ObjectScenes/playerChar.tscn" id="4_i2dvm"]
+[ext_resource type="PackedScene" uid="uid://grudrdnaxpm6" path="res://OneStepAtTheTime/ObjectScenes/PlayerChar.tscn" id="4_i2dvm"]
 [ext_resource type="PackedScene" uid="uid://bw7r2frcu4hno" path="res://OneStepAtTheTime/ObjectScenes/platformObjectTemp.tscn" id="4_mblv6"]
 [ext_resource type="PackedScene" uid="uid://docjkc5pcob5y" path="res://OneStepAtTheTime/ObjectScenes/rockSpawner.tscn" id="5_i2dvm"]
 
@@ -95,8 +95,11 @@ position = Vector2(0, -80)
 
 [node name="PanelContainer" type="PanelContainer" parent="."]
 process_mode = 3
-offset_right = 40.0
-offset_bottom = 40.0
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
 
 [node name="VBoxContainer" type="VBoxContainer" parent="PanelContainer"]
 layout_mode = 2
