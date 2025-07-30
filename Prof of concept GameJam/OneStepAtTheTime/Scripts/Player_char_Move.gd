@@ -13,7 +13,7 @@ const JUMP_VELOCITY = -300.0
 
 func _ready() -> void:
 	Camera.global_position.y = 0
-	var Is_Platform = false
+
 		
 func _physics_process(delta):
 	# Add the gravity.
